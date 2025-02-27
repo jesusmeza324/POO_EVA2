@@ -1,0 +1,7 @@
+@startuml
+class com.mycompany.eva2_4_herencia_simpe.EVA2_4_HERENCIA_SIMPE
+class com.mycompany.eva2_4_herencia_simpe.Hijo
+class com.mycompany.eva2_4_herencia_simpe.Madre
+class com.mycompany.eva2_4_herencia_simpe.Padre
+com.mycompany.eva2_4_herencia_simpe.Hijo --|> com.mycompany.eva2_4_herencia_simpe.Padre
+@enduml
