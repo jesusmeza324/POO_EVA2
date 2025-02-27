@@ -1,0 +1,33 @@
+@startuml
+annotation java.lang.Override
+class com.mycompany.eva2_3_sobreescritura.Cliente
+class com.mycompany.eva2_3_sobreescritura.EVA2_3_SOBREESCRITURA
+class com.mycompany.eva2_3_sobreescritura.Persona
+com.mycompany.eva2_3_sobreescritura.Cliente ..> java.lang.Override
+com.mycompany.eva2_3_sobreescritura.Cliente --|> com.mycompany.eva2_3_sobreescritura.Persona
+com.mycompany.eva2_3_sobreescritura.Persona ..> java.lang.Override
+class Cliente {
+        - String rfc
+        + Cliente()
+        + Cliente(String nombre, String apellido, int edad, String rfc)
+        + String getRfc()
+        + void setRfc(String rfc)
+        + void imprimirDatos()
+        + String toString()
+    }
+    class Persona {
+        - String nombre
+        - String apellido
+        - int edad
+        + Persona()
+        + Persona(String nombre, String apellido, int edad)
+        + String getNombre()
+        + void setNombre(String nombre)
+        + String getApellido()
+        + void setApellido(String apellido)
+        + int getEdad()
+        + void setEdad(int edad)
+        + void imprimirDatos()
+        + String toString()
+    }
+@enduml
