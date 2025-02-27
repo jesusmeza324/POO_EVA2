@@ -1,0 +1,48 @@
+@startuml
+class com.mycompany.eva2_2_productos.EVA2_2_PRODUCTOS
+class com.mycompany.eva2_2_productos.Electronica
+class com.mycompany.eva2_2_productos.Productos
+class com.mycompany.eva2_2_productos.Ropa
+com.mycompany.eva2_2_productos.Electronica --|> com.mycompany.eva2_2_productos.Productos
+com.mycompany.eva2_2_productos.Ropa --|> com.mycompany.eva2_2_productos.Productos
+class Productos {
+        - double precio
+        - String clave
+        - String Marca
+        - String tipo
+        + Productos()
+        + Productos(double precio, String clave, String marca, String tipo)
+        + double getPrecio()
+        + void setPrecio(double precio)
+        + String getClave()
+        + void setClave(String clave)
+        + String getMarca()
+        + void setMarca(String Marca)
+        + String getTipo()
+        + void setTipo(String tipo)
+        + void imprimirDatos()
+    }
+class Ropa {
+        - String talla
+        - String color
+        + Ropa()
+        + Ropa(double precio, String clave, String marca, String tipo, String talla, String color)
+        + String getTalla()
+        + void setTalla(String talla)
+        + String getColor()
+        + void setColor(String color)
+        + void imprimirDatos()
+    }
+     class Electronica {
+        - int tamaño
+        - int voltaje
+        + Electronica()
+        + Electronica(double precio, String clave, String marca, String tipo, int tamaño, int voltaje)
+        + int getTamaño()
+        + void setTamaño(int tamaño)
+        + int getVoltaje()
+        + void setVoltaje(int voltaje)
+        + void imprimirDatos()
+    }
+
+@enduml

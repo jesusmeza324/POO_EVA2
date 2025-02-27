@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="592px" preserveAspectRatio="none" style="width:1667px;height:592px;background:#FFFFFF;" version="1.1" viewBox="0 0 1667 592" width="1667px" zoomAndPan="magnify">
+    <defs/>
+    <g>
+        <!--cluster com-->
+        <g id="cluster_com">
+            <path d="M1116.5,15 L1146.5,15 A3.75,3.75 0 0 1 1149,17.5 L1156,38.6094 L1657.5,38.6094 A2.5,2.5 0 0 1 1660,41.1094 L1660,567.5 A2.5,2.5 0 0 1 1657.5,570 L1116.5,570 A2.5,2.5 0 0 1 1114,567.5 L1114,17.5 A2.5,2.5 0 0 1 1116.5,15 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="1114" x2="1156" y1="38.6094" y2="38.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="29" x="1118" y="31.5332">com</text>
+        </g>
+        <!--cluster mycompany-->
+        <g id="cluster_mycompany">
+            <path d="M1140.5,59 L1222.5,59 A3.75,3.75 0 0 1 1225,61.5 L1232,82.6094 L1633.5,82.6094 A2.5,2.5 0 0 1 1636,85.1094 L1636,543.5 A2.5,2.5 0 0 1 1633.5,546 L1140.5,546 A2.5,2.5 0 0 1 1138,543.5 L1138,61.5 A2.5,2.5 0 0 1 1140.5,59 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="1138" x2="1232" y1="82.6094" y2="82.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="81" x="1142" y="75.5332">mycompany</text>
+        </g>
+        <!--cluster eva2_2_productos-->
+        <g id="cluster_eva2_2_productos">
+            <path d="M1164.5,103 L1295.5,103 A3.75,3.75 0 0 1 1298,105.5 L1305,126.6094 L1609.5,126.6094 A2.5,2.5 0 0 1 1612,129.1094 L1612,519.5 A2.5,2.5 0 0 1 1609.5,522 L1164.5,522 A2.5,2.5 0 0 1 1162,519.5 L1162,105.5 A2.5,2.5 0 0 1 1164.5,103 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="1162" x2="1305" y1="126.6094" y2="126.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="130" x="1166" y="119.5332">eva2_2_productos</text>
+        </g>
+        <!--class EVA2_2_PRODUCTOS-->
+        <g id="elem_EVA2_2_PRODUCTOS">
+            <rect codeLine="1" fill="#F1F1F1" height="48" id="EVA2_2_PRODUCTOS" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="179" x="1416.5" y="139"/>
+            <ellipse cx="1431.5" cy="155" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M1434.2656,150.875 Q1434.4219,150.6563 1434.6094,150.5469 Q1434.7969,150.4375 1435.0156,150.4375 Q1435.3906,150.4375 1435.625,150.7031 Q1435.8594,150.9531 1435.8594,151.5625 L1435.8594,153.0156 Q1435.8594,153.625 1435.625,153.8906 Q1435.3906,154.1563 1435.0156,154.1563 Q1434.6719,154.1563 1434.4688,153.9531 Q1434.2656,153.7656 1434.1563,153.25 Q1434.1094,152.8906 1433.9219,152.7031 Q1433.5938,152.3281 1432.9844,152.1094 Q1432.375,151.8906 1431.75,151.8906 Q1430.9844,151.8906 1430.3438,152.2188 Q1429.7188,152.5469 1429.2188,153.2969 Q1428.7344,154.0469 1428.7344,155.0781 L1428.7344,156.1719 Q1428.7344,157.4063 1429.625,158.2344 Q1430.5156,159.0469 1432.1094,159.0469 Q1433.0469,159.0469 1433.7031,158.7969 Q1434.0938,158.6406 1434.5156,158.2031 Q1434.7813,157.9375 1434.9219,157.8594 Q1435.0781,157.7813 1435.2813,157.7813 Q1435.6094,157.7813 1435.8594,158.0469 Q1436.125,158.2969 1436.125,158.6406 Q1436.125,158.9844 1435.7813,159.3906 Q1435.2813,159.9688 1434.4844,160.2969 Q1433.4063,160.75 1432.1094,160.75 Q1430.5938,160.75 1429.3906,160.125 Q1428.4063,159.625 1427.7188,158.5625 Q1427.0313,157.4844 1427.0313,156.2031 L1427.0313,155.0469 Q1427.0313,153.7188 1427.6406,152.5781 Q1428.2656,151.4219 1429.3594,150.8125 Q1430.4531,150.1875 1431.6875,150.1875 Q1432.4219,150.1875 1433.0625,150.3594 Q1433.7188,150.5156 1434.2656,150.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="147" x="1445.5" y="160.7285">EVA2_2_PRODUCTOS</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1417.5" x2="1594.5" y1="171" y2="171"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1417.5" x2="1594.5" y1="179" y2="179"/>
+        </g>
+        <!--class Electronica-->
+        <g id="elem_Electronica">
+            <rect codeLine="2" fill="#F1F1F1" height="48" id="Electronica" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="102" x="1279" y="139"/>
+            <ellipse cx="1294" cy="155" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M1296.7656,150.875 Q1296.9219,150.6563 1297.1094,150.5469 Q1297.2969,150.4375 1297.5156,150.4375 Q1297.8906,150.4375 1298.125,150.7031 Q1298.3594,150.9531 1298.3594,151.5625 L1298.3594,153.0156 Q1298.3594,153.625 1298.125,153.8906 Q1297.8906,154.1563 1297.5156,154.1563 Q1297.1719,154.1563 1296.9688,153.9531 Q1296.7656,153.7656 1296.6563,153.25 Q1296.6094,152.8906 1296.4219,152.7031 Q1296.0938,152.3281 1295.4844,152.1094 Q1294.875,151.8906 1294.25,151.8906 Q1293.4844,151.8906 1292.8438,152.2188 Q1292.2188,152.5469 1291.7188,153.2969 Q1291.2344,154.0469 1291.2344,155.0781 L1291.2344,156.1719 Q1291.2344,157.4063 1292.125,158.2344 Q1293.0156,159.0469 1294.6094,159.0469 Q1295.5469,159.0469 1296.2031,158.7969 Q1296.5938,158.6406 1297.0156,158.2031 Q1297.2813,157.9375 1297.4219,157.8594 Q1297.5781,157.7813 1297.7813,157.7813 Q1298.1094,157.7813 1298.3594,158.0469 Q1298.625,158.2969 1298.625,158.6406 Q1298.625,158.9844 1298.2813,159.3906 Q1297.7813,159.9688 1296.9844,160.2969 Q1295.9063,160.75 1294.6094,160.75 Q1293.0938,160.75 1291.8906,160.125 Q1290.9063,159.625 1290.2188,158.5625 Q1289.5313,157.4844 1289.5313,156.2031 L1289.5313,155.0469 Q1289.5313,153.7188 1290.1406,152.5781 Q1290.7656,151.4219 1291.8594,150.8125 Q1292.9531,150.1875 1294.1875,150.1875 Q1294.9219,150.1875 1295.5625,150.3594 Q1296.2188,150.5156 1296.7656,150.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="70" x="1308" y="160.7285">Electronica</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1280" x2="1380" y1="171" y2="171"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1280" x2="1380" y1="179" y2="179"/>
+        </g>
+        <!--class Productos-->
+        <g id="elem_Productos">
+            <rect codeLine="3" fill="#F1F1F1" height="48" id="Productos" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="96" x="1230" y="458"/>
+            <ellipse cx="1245" cy="474" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M1247.7656,469.875 Q1247.9219,469.6563 1248.1094,469.5469 Q1248.2969,469.4375 1248.5156,469.4375 Q1248.8906,469.4375 1249.125,469.7031 Q1249.3594,469.9531 1249.3594,470.5625 L1249.3594,472.0156 Q1249.3594,472.625 1249.125,472.8906 Q1248.8906,473.1563 1248.5156,473.1563 Q1248.1719,473.1563 1247.9688,472.9531 Q1247.7656,472.7656 1247.6563,472.25 Q1247.6094,471.8906 1247.4219,471.7031 Q1247.0938,471.3281 1246.4844,471.1094 Q1245.875,470.8906 1245.25,470.8906 Q1244.4844,470.8906 1243.8438,471.2188 Q1243.2188,471.5469 1242.7188,472.2969 Q1242.2344,473.0469 1242.2344,474.0781 L1242.2344,475.1719 Q1242.2344,476.4063 1243.125,477.2344 Q1244.0156,478.0469 1245.6094,478.0469 Q1246.5469,478.0469 1247.2031,477.7969 Q1247.5938,477.6406 1248.0156,477.2031 Q1248.2813,476.9375 1248.4219,476.8594 Q1248.5781,476.7813 1248.7813,476.7813 Q1249.1094,476.7813 1249.3594,477.0469 Q1249.625,477.2969 1249.625,477.6406 Q1249.625,477.9844 1249.2813,478.3906 Q1248.7813,478.9688 1247.9844,479.2969 Q1246.9063,479.75 1245.6094,479.75 Q1244.0938,479.75 1242.8906,479.125 Q1241.9063,478.625 1241.2188,477.5625 Q1240.5313,476.4844 1240.5313,475.2031 L1240.5313,474.0469 Q1240.5313,472.7188 1241.1406,471.5781 Q1241.7656,470.4219 1242.8594,469.8125 Q1243.9531,469.1875 1245.1875,469.1875 Q1245.9219,469.1875 1246.5625,469.3594 Q1247.2188,469.5156 1247.7656,469.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="64" x="1259" y="479.7285">Productos</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1231" x2="1325" y1="490" y2="490"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1231" x2="1325" y1="498" y2="498"/>
+        </g>
+        <!--class Ropa-->
+        <g id="elem_Ropa">
+            <rect codeLine="4" fill="#F1F1F1" height="48" id="Ropa" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="66" x="1178" y="139"/>
+            <ellipse cx="1193" cy="155" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M1195.7656,150.875 Q1195.9219,150.6563 1196.1094,150.5469 Q1196.2969,150.4375 1196.5156,150.4375 Q1196.8906,150.4375 1197.125,150.7031 Q1197.3594,150.9531 1197.3594,151.5625 L1197.3594,153.0156 Q1197.3594,153.625 1197.125,153.8906 Q1196.8906,154.1563 1196.5156,154.1563 Q1196.1719,154.1563 1195.9688,153.9531 Q1195.7656,153.7656 1195.6563,153.25 Q1195.6094,152.8906 1195.4219,152.7031 Q1195.0938,152.3281 1194.4844,152.1094 Q1193.875,151.8906 1193.25,151.8906 Q1192.4844,151.8906 1191.8438,152.2188 Q1191.2188,152.5469 1190.7188,153.2969 Q1190.2344,154.0469 1190.2344,155.0781 L1190.2344,156.1719 Q1190.2344,157.4063 1191.125,158.2344 Q1192.0156,159.0469 1193.6094,159.0469 Q1194.5469,159.0469 1195.2031,158.7969 Q1195.5938,158.6406 1196.0156,158.2031 Q1196.2813,157.9375 1196.4219,157.8594 Q1196.5781,157.7813 1196.7813,157.7813 Q1197.1094,157.7813 1197.3594,158.0469 Q1197.625,158.2969 1197.625,158.6406 Q1197.625,158.9844 1197.2813,159.3906 Q1196.7813,159.9688 1195.9844,160.2969 Q1194.9063,160.75 1193.6094,160.75 Q1192.0938,160.75 1190.8906,160.125 Q1189.9063,159.625 1189.2188,158.5625 Q1188.5313,157.4844 1188.5313,156.2031 L1188.5313,155.0469 Q1188.5313,153.7188 1189.1406,152.5781 Q1189.7656,151.4219 1190.8594,150.8125 Q1191.9531,150.1875 1193.1875,150.1875 Q1193.9219,150.1875 1194.5625,150.3594 Q1195.2188,150.5156 1195.7656,150.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="34" x="1207" y="160.7285">Ropa</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1179" x2="1243" y1="171" y2="171"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1179" x2="1243" y1="179" y2="179"/>
+        </g>
+        <!--class Productos-->
+        <g id="elem_Productos">
+            <rect codeLine="7" fill="#F1F1F1" height="312.1406" id="Productos" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="428" x="81" y="7"/>
+            <ellipse cx="258.75" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M261.5156,18.875 Q261.6719,18.6563 261.8594,18.5469 Q262.0469,18.4375 262.2656,18.4375 Q262.6406,18.4375 262.875,18.7031 Q263.1094,18.9531 263.1094,19.5625 L263.1094,21.0156 Q263.1094,21.625 262.875,21.8906 Q262.6406,22.1563 262.2656,22.1563 Q261.9219,22.1563 261.7188,21.9531 Q261.5156,21.7656 261.4063,21.25 Q261.3594,20.8906 261.1719,20.7031 Q260.8438,20.3281 260.2344,20.1094 Q259.625,19.8906 259,19.8906 Q258.2344,19.8906 257.5938,20.2188 Q256.9688,20.5469 256.4688,21.2969 Q255.9844,22.0469 255.9844,23.0781 L255.9844,24.1719 Q255.9844,25.4063 256.875,26.2344 Q257.7656,27.0469 259.3594,27.0469 Q260.2969,27.0469 260.9531,26.7969 Q261.3438,26.6406 261.7656,26.2031 Q262.0313,25.9375 262.1719,25.8594 Q262.3281,25.7813 262.5313,25.7813 Q262.8594,25.7813 263.1094,26.0469 Q263.375,26.2969 263.375,26.6406 Q263.375,26.9844 263.0313,27.3906 Q262.5313,27.9688 261.7344,28.2969 Q260.6563,28.75 259.3594,28.75 Q257.8438,28.75 256.6406,28.125 Q255.6563,27.625 254.9688,26.5625 Q254.2813,25.4844 254.2813,24.2031 L254.2813,23.0469 Q254.2813,21.7188 254.8906,20.5781 Q255.5156,19.4219 256.6094,18.8125 Q257.7031,18.1875 258.9375,18.1875 Q259.6719,18.1875 260.3125,18.3594 Q260.9688,18.5156 261.5156,18.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="64" x="279.25" y="28.7285">Productos</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="82" x2="508" y1="39" y2="39"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="89" y="50.3047"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="86" x="101" y="57.5332">double precio</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="89" y="67.9141"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="101" y="75.1426">String clave</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="89" y="85.5234"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="80" x="101" y="92.752">String Marca</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="89" y="103.1328"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="64" x="101" y="110.3613">String tipo</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="82" x2="508" y1="117.4375" y2="117.4375"/>
+            <ellipse cx="92" cy="131.7422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="101" y="135.9707">Productos()</text>
+            <ellipse cx="92" cy="149.3516" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="402" x="101" y="153.5801">Productos(double precio, String clave, String marca, String tipo)</text>
+            <ellipse cx="92" cy="166.9609" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="117" x="101" y="171.1895">double getPrecio()</text>
+            <ellipse cx="92" cy="184.5703" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="185" x="101" y="188.7988">void setPrecio(double precio)</text>
+            <ellipse cx="92" cy="202.1797" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="101" y="206.4082">String getClave()</text>
+            <ellipse cx="92" cy="219.7891" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="169" x="101" y="224.0176">void setClave(String clave)</text>
+            <ellipse cx="92" cy="237.3984" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="110" x="101" y="241.627">String getMarca()</text>
+            <ellipse cx="92" cy="255.0078" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="178" x="101" y="259.2363">void setMarca(String Marca)</text>
+            <ellipse cx="92" cy="272.6172" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="99" x="101" y="276.8457">String getTipo()</text>
+            <ellipse cx="92" cy="290.2266" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="151" x="101" y="294.4551">void setTipo(String tipo)</text>
+            <ellipse cx="92" cy="307.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="126" x="101" y="312.0645">void imprimirDatos()</text>
+        </g>
+        <!--class Ropa-->
+        <g id="elem_Ropa">
+            <rect codeLine="24" fill="#F1F1F1" height="206.4844" id="Ropa" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="553" x="544.5" y="60"/>
+            <ellipse cx="799.75" cy="76" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M802.5156,71.875 Q802.6719,71.6563 802.8594,71.5469 Q803.0469,71.4375 803.2656,71.4375 Q803.6406,71.4375 803.875,71.7031 Q804.1094,71.9531 804.1094,72.5625 L804.1094,74.0156 Q804.1094,74.625 803.875,74.8906 Q803.6406,75.1563 803.2656,75.1563 Q802.9219,75.1563 802.7188,74.9531 Q802.5156,74.7656 802.4063,74.25 Q802.3594,73.8906 802.1719,73.7031 Q801.8438,73.3281 801.2344,73.1094 Q800.625,72.8906 800,72.8906 Q799.2344,72.8906 798.5938,73.2188 Q797.9688,73.5469 797.4688,74.2969 Q796.9844,75.0469 796.9844,76.0781 L796.9844,77.1719 Q796.9844,78.4063 797.875,79.2344 Q798.7656,80.0469 800.3594,80.0469 Q801.2969,80.0469 801.9531,79.7969 Q802.3438,79.6406 802.7656,79.2031 Q803.0313,78.9375 803.1719,78.8594 Q803.3281,78.7813 803.5313,78.7813 Q803.8594,78.7813 804.1094,79.0469 Q804.375,79.2969 804.375,79.6406 Q804.375,79.9844 804.0313,80.3906 Q803.5313,80.9688 802.7344,81.2969 Q801.6563,81.75 800.3594,81.75 Q798.8438,81.75 797.6406,81.125 Q796.6563,80.625 795.9688,79.5625 Q795.2813,78.4844 795.2813,77.2031 L795.2813,76.0469 Q795.2813,74.7188 795.8906,73.5781 Q796.5156,72.4219 797.6094,71.8125 Q798.7031,71.1875 799.9375,71.1875 Q800.6719,71.1875 801.3125,71.3594 Q801.9688,71.5156 802.5156,71.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="34" x="820.25" y="81.7285">Ropa</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="545.5" x2="1096.5" y1="92" y2="92"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="552.5" y="103.3047"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="67" x="564.5" y="110.5332">String talla</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="552.5" y="120.9141"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="72" x="564.5" y="128.1426">String color</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="545.5" x2="1096.5" y1="135.2188" y2="135.2188"/>
+            <ellipse cx="555.5" cy="149.5234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="44" x="564.5" y="153.752">Ropa()</text>
+            <ellipse cx="555.5" cy="167.1328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="527" x="564.5" y="171.3613">Ropa(double precio, String clave, String marca, String tipo, String talla, String color)</text>
+            <ellipse cx="555.5" cy="184.7422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="102" x="564.5" y="188.9707">String getTalla()</text>
+            <ellipse cx="555.5" cy="202.3516" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="157" x="564.5" y="206.5801">void setTalla(String talla)</text>
+            <ellipse cx="555.5" cy="219.9609" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="105" x="564.5" y="224.1895">String getColor()</text>
+            <ellipse cx="555.5" cy="237.5703" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="165" x="564.5" y="241.7988">void setColor(String color)</text>
+            <ellipse cx="555.5" cy="255.1797" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="126" x="564.5" y="259.4082">void imprimirDatos()</text>
+        </g>
+        <!--class Electronica-->
+        <g id="elem_Electronica">
+            <rect codeLine="35" fill="#F1F1F1" height="206.4844" id="Electronica" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="576" x="7" y="379"/>
+            <ellipse cx="255.75" cy="395" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M258.5156,390.875 Q258.6719,390.6563 258.8594,390.5469 Q259.0469,390.4375 259.2656,390.4375 Q259.6406,390.4375 259.875,390.7031 Q260.1094,390.9531 260.1094,391.5625 L260.1094,393.0156 Q260.1094,393.625 259.875,393.8906 Q259.6406,394.1563 259.2656,394.1563 Q258.9219,394.1563 258.7188,393.9531 Q258.5156,393.7656 258.4063,393.25 Q258.3594,392.8906 258.1719,392.7031 Q257.8438,392.3281 257.2344,392.1094 Q256.625,391.8906 256,391.8906 Q255.2344,391.8906 254.5938,392.2188 Q253.9688,392.5469 253.4688,393.2969 Q252.9844,394.0469 252.9844,395.0781 L252.9844,396.1719 Q252.9844,397.4063 253.875,398.2344 Q254.7656,399.0469 256.3594,399.0469 Q257.2969,399.0469 257.9531,398.7969 Q258.3438,398.6406 258.7656,398.2031 Q259.0313,397.9375 259.1719,397.8594 Q259.3281,397.7813 259.5313,397.7813 Q259.8594,397.7813 260.1094,398.0469 Q260.375,398.2969 260.375,398.6406 Q260.375,398.9844 260.0313,399.3906 Q259.5313,399.9688 258.7344,400.2969 Q257.6563,400.75 256.3594,400.75 Q254.8438,400.75 253.6406,400.125 Q252.6563,399.625 251.9688,398.5625 Q251.2813,397.4844 251.2813,396.2031 L251.2813,395.0469 Q251.2813,393.7188 251.8906,392.5781 Q252.5156,391.4219 253.6094,390.8125 Q254.7031,390.1875 255.9375,390.1875 Q256.6719,390.1875 257.3125,390.3594 Q257.9688,390.5156 258.5156,390.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="70" x="276.25" y="400.7285">Electronica</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="582" y1="411" y2="411"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="422.3047"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="66" x="27" y="429.5332">int tamaño</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="439.9141"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="27" y="447.1426">int voltaje</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="582" y1="454.2188" y2="454.2188"/>
+            <ellipse cx="18" cy="468.5234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="80" x="27" y="472.752">Electronica()</text>
+            <ellipse cx="18" cy="486.1328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="550" x="27" y="490.3613">Electronica(double precio, String clave, String marca, String tipo, int tamaño, int voltaje)</text>
+            <ellipse cx="18" cy="503.7422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="101" x="27" y="507.9707">int getTamaño()</text>
+            <ellipse cx="18" cy="521.3516" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="177" x="27" y="525.5801">void setTamaño(int tamaño)</text>
+            <ellipse cx="18" cy="538.9609" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="92" x="27" y="543.1895">int getVoltaje()</text>
+            <ellipse cx="18" cy="556.5703" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="162" x="27" y="560.7988">void setVoltaje(int voltaje)</text>
+            <ellipse cx="18" cy="574.1797" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="126" x="27" y="578.4082">void imprimirDatos()</text>
+        </g>
+        <!--link Electronica to Productos-->
+        <g id="link_Electronica_Productos">
+            <path codeLine="5" d="M1326.22,187.05 C1316.64,245.47 1294.3931,381.0573 1284.7531,439.8373 " fill="none" id="Electronica-to-Productos" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="1281.84,457.6,1290.674,440.8083,1278.8322,438.8663,1281.84,457.6" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--link Ropa to Productos-->
+        <g id="link_Ropa_Productos">
+            <path codeLine="6" d="M1215.87,187.05 C1228.22,245.47 1256.906,381.2094 1269.336,439.9894 " fill="none" id="Ropa-to-Productos" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="1273.06,457.6,1275.2061,438.7481,1263.4658,441.2308,1273.06,457.6" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--SRC=[dPD1Ri8m44NtdCBBLasou02LAkYo8WBA5hcEXLmviUMOI8ZsK3r3BrRR2Scus11W4P6PyVi_VnB2SLqZ8igiF9YhnDKXemsURgTRgKIn9rhKsUlcnHRovMB-FbilLXCowXIdH2jHCOB77SXF_yQDBuKquD4UK9f-FTzWuRhuhKJtKFqzEavGzqjH8VOVd2AfA642r5TQiMg7pD66dfVVi3BPdfKramFZQL1yU0nMFUt4a-plIgkKG078wWWxgdC7yOGQmGfKzorF3SvrR0EPMUaWe-r0Xs622oP8Q3imlp1XRHun272DI0vkXfLIiPAfEHuY_-wMxzwQOs1ZcFF08edWGW6-FUwPSeNxzfTusead6Od43eOpSHt8YopMmiEBTPsOXmkvkeasNFYjmunPfOsf4l_-Y7_LHd2DFobG0WpF9wpVcpVmaK1vg6FBBcet5WcxxG5SWB1fsK72gHVnS27jFm00]-->
+    </g>
+</svg>
