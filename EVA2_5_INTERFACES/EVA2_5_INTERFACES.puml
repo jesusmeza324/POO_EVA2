@@ -1,0 +1,74 @@
+@startuml
+annotation java.lang.Override
+class com.mycompany.eva2_5_interfaces.Cliente
+class com.mycompany.eva2_5_interfaces.EVA2_5_INTERFACES
+class com.mycompany.eva2_5_interfaces.Television
+class com.mycompany.eva2_5_interfaces.Vehiculo
+interface com.mycompany.eva2_5_interfaces.Datos
+com.mycompany.eva2_5_interfaces.Cliente ..> java.lang.Override
+com.mycompany.eva2_5_interfaces.Cliente --|> com.mycompany.eva2_5_interfaces.Datos
+com.mycompany.eva2_5_interfaces.Television ..> java.lang.Override
+com.mycompany.eva2_5_interfaces.Television --|> com.mycompany.eva2_5_interfaces.Datos
+com.mycompany.eva2_5_interfaces.Vehiculo ..> java.lang.Override
+com.mycompany.eva2_5_interfaces.Vehiculo --|> com.mycompany.eva2_5_interfaces.Datos
+
+interface Datos {
+  + mostrarDatos()
+}
+
+class Cliente {
+  - nombre : String
+  - apellido : String
+  - rfc : String
+
+  + Cliente()
+  + Cliente(String, String, String)
+
+  + getNombre() : String
+  + setNombre(String)
+  + getApellido() : String
+  + setApellido(String)
+  + getRfc() : String
+  + setRfc(String)
+  + mostrarDatos()
+}
+class Television {
+  - encendida : boolean
+  - volumen : int
+  - canal : int
+
+  + Television(boolean, int, int)
+
+  + botonPower()
+  + bajarVolumen()
+  + subirVolumen()
+  + subirCanal()
+  + bajarCanal()
+  + setCanal(int)
+  + mostrarDatos()
+}
+class Vehiculo {
+  - marca : String
+  - modelo : String
+  - color : String
+  - year : int
+  - precio : double
+
+  + Vehiculo()
+  + Vehiculo(String, String, String, int, double)
+
+  + getMarca() : String
+  + setMarca(String)
+  + getModelo() : String
+  + setModelo(String)
+  + getColor() : String
+  + setColor(String)
+  + getYear() : int
+  + setYear(int)
+  + getPrecio() : double
+  + setPrecio(double)
+  + mostrarDatos()
+}
+
+
+@enduml
