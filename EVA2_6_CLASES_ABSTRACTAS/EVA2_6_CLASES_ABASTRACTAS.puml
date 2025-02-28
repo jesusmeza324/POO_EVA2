@@ -1,0 +1,45 @@
+@startuml
+abstract class com.mycompany.eva2_6_clases_abstractas.Figura
+annotation java.lang.Override
+class com.mycompany.eva2_6_clases_abstractas.Circulo
+class com.mycompany.eva2_6_clases_abstractas.EVA2_6_CLASES_ABSTRACTAS
+class com.mycompany.eva2_6_clases_abstractas.Rectangulo
+interface com.mycompany.eva2_6_clases_abstractas.Datos
+com.mycompany.eva2_6_clases_abstractas.Figura --|> com.mycompany.eva2_6_clases_abstractas.Datos
+com.mycompany.eva2_6_clases_abstractas.Circulo --|> com.mycompany.eva2_6_clases_abstractas.Figura
+com.mycompany.eva2_6_clases_abstractas.Circulo ..> java.lang.Override
+com.mycompany.eva2_6_clases_abstractas.Circulo --|> com.mycompany.eva2_6_clases_abstractas.Datos
+com.mycompany.eva2_6_clases_abstractas.Rectangulo --|> com.mycompany.eva2_6_clases_abstractas.Figura
+com.mycompany.eva2_6_clases_abstractas.Rectangulo ..> java.lang.Override
+com.mycompany.eva2_6_clases_abstractas.Rectangulo --|> com.mycompany.eva2_6_clases_abstractas.Datos
+interface Datos {
+    + mostrarDatos(): void {abstract}
+}
+abstract class Figura implements Datos {
+    + calcularArea(): double {abstract}
+    + calcularPerimetro(): double {abstract}
+}
+class Rectangulo extends Figura implements Datos {
+    - base: double
+    - altura: double
+    + Rectangulo()
+    + Rectangulo(base: double, altura: double)
+    + getBase(): double
+    + setBase(base: double): void
+    + getAltura(): double
+    + setAltura(altura: double): void
+    + calcularArea(): double
+    + calcularPerimetro(): double
+    + mostrarDatos(): void
+}
+class Circulo extends Figura implements Datos {
+    - radio: double
+    + Circulo()
+    + Circulo(radio: double)
+    + getRadio(): double
+    + setRadio(radio: double): void
+    + calcularArea(): double
+    + calcularPerimetro(): double
+    + mostrarDatos(): void
+}
+@enduml
