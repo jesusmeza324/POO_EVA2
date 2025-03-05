@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="756px" preserveAspectRatio="none" style="width:1648px;height:756px;background:#FFFFFF;" version="1.1" viewBox="0 0 1648 756" width="1648px" zoomAndPan="magnify">
+    <defs/>
+    <g>
+        <!--cluster java-->
+        <g id="cluster_java">
+            <path d="M1475.5,557.5 L1505.5,557.5 A3.75,3.75 0 0 1 1508,560 L1515,581.1094 L1638.5,581.1094 A2.5,2.5 0 0 1 1641,583.6094 L1641,723 A2.5,2.5 0 0 1 1638.5,725.5 L1475.5,725.5 A2.5,2.5 0 0 1 1473,723 L1473,560 A2.5,2.5 0 0 1 1475.5,557.5 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="1473" x2="1515" y1="581.1094" y2="581.1094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="29" x="1477" y="574.0332">java</text>
+        </g>
+        <!--cluster lang-->
+        <g id="cluster_lang">
+            <path d="M1499.5,601.5 L1530.5,601.5 A3.75,3.75 0 0 1 1533,604 L1540,625.1094 L1614.5,625.1094 A2.5,2.5 0 0 1 1617,627.6094 L1617,699 A2.5,2.5 0 0 1 1614.5,701.5 L1499.5,701.5 A2.5,2.5 0 0 1 1497,699 L1497,604 A2.5,2.5 0 0 1 1499.5,601.5 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="1497" x2="1540" y1="625.1094" y2="625.1094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="30" x="1501" y="618.0332">lang</text>
+        </g>
+        <!--cluster com-->
+        <g id="cluster_com">
+            <path d="M928.5,6 L958.5,6 A3.75,3.75 0 0 1 961,8.5 L968,29.6094 L1446.5,29.6094 A2.5,2.5 0 0 1 1449,32.1094 L1449,747 A2.5,2.5 0 0 1 1446.5,749.5 L928.5,749.5 A2.5,2.5 0 0 1 926,747 L926,8.5 A2.5,2.5 0 0 1 928.5,6 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="926" x2="968" y1="29.6094" y2="29.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="29" x="930" y="22.5332">com</text>
+        </g>
+        <!--cluster mycompany-->
+        <g id="cluster_mycompany">
+            <path d="M952.5,50 L1034.5,50 A3.75,3.75 0 0 1 1037,52.5 L1044,73.6094 L1422.5,73.6094 A2.5,2.5 0 0 1 1425,76.1094 L1425,723 A2.5,2.5 0 0 1 1422.5,725.5 L952.5,725.5 A2.5,2.5 0 0 1 950,723 L950,52.5 A2.5,2.5 0 0 1 952.5,50 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="950" x2="1044" y1="73.6094" y2="73.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="81" x="954" y="66.5332">mycompany</text>
+        </g>
+        <!--cluster eva2_7_publicacion-->
+        <g id="cluster_eva2_7_publicacion">
+            <path d="M976.5,94 L1116.5,94 A3.75,3.75 0 0 1 1119,96.5 L1126,117.6094 L1398.5,117.6094 A2.5,2.5 0 0 1 1401,120.1094 L1401,699 A2.5,2.5 0 0 1 1398.5,701.5 L976.5,701.5 A2.5,2.5 0 0 1 974,699 L974,96.5 A2.5,2.5 0 0 1 976.5,94 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="974" x2="1126" y1="117.6094" y2="117.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="139" x="978" y="110.5332">eva2_7_publicacion</text>
+        </g>
+        <!--class Override-->
+        <g id="elem_Override">
+            <rect codeLine="1" fill="#F1F1F1" height="48" id="Override" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="87" x="1513.5" y="637.5"/>
+            <ellipse cx="1528.5" cy="653.5" fill="#E3664A" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M1530.8438,651.0781 L1530.8438,650.5625 Q1530.8438,649.7344 1530.3594,649.2344 Q1529.8906,648.7344 1529.1406,648.7344 Q1528.5469,648.7344 1528.0156,649.1406 Q1527.4844,649.5313 1527.2188,650.1563 Q1526.75,651.25 1526.75,652.3594 L1526.75,654.875 Q1526.75,656.7969 1527.6094,657.9219 Q1528.1719,658.6719 1529.1875,658.6719 Q1529.7344,658.6719 1530.1719,658.5313 Q1530.625,658.3906 1530.875,658.1406 Q1531.125,657.8906 1531.3438,657.8906 Q1531.6094,657.8906 1531.7969,658.0781 Q1531.9844,658.2656 1531.9844,658.5313 Q1531.9844,658.9531 1531.4063,659.3438 Q1530.5781,659.9063 1529.1406,659.9063 Q1528.0469,659.9063 1527.3281,659.4063 Q1526.4063,658.7656 1525.9531,657.5 Q1525.5,656.2344 1525.5,655 L1525.5,652.2656 Q1525.5,650.2813 1526.4844,648.8906 Q1527.4688,647.4844 1529.1094,647.4844 Q1529.8594,647.4844 1530.5,647.7969 Q1531.1563,648.0938 1531.625,648.8594 Q1532.0938,649.625 1532.0938,650.5625 L1532.0938,655.0938 Q1532.4531,655.2656 1532.4531,655.6563 Q1532.4531,655.9375 1532.25,656.125 Q1532.0625,656.2969 1531.5938,656.2969 L1530.8438,656.2969 L1530.8438,656.25 Q1530.4531,656.3125 1530.2656,656.3125 Q1529.2656,656.3125 1528.5156,655.5781 Q1527.7813,654.8281 1527.7813,653.8281 Q1527.7813,652.7656 1528.5938,651.9688 Q1529.4219,651.1719 1530.8438,651.0781 Z M1530.8438,652.3594 Q1529.9531,652.4531 1529.4844,652.875 Q1529.0313,653.2969 1529.0313,653.8438 Q1529.0313,654.3281 1529.4063,654.6719 Q1529.7969,655.0156 1530.4375,655.0156 Q1530.5625,655.0156 1530.8438,655 L1530.8438,652.3594 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="1542.5" y="659.2285">Override</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1514.5" x2="1599.5" y1="669.5" y2="669.5"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1514.5" x2="1599.5" y1="677.5" y2="677.5"/>
+        </g>
+        <!--class EVA2_7_PUBLICACION-->
+        <g id="elem_EVA2_7_PUBLICACION">
+            <rect codeLine="2" fill="#F1F1F1" height="48" id="EVA2_7_PUBLICACION" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="181" x="1203.5" y="130"/>
+            <ellipse cx="1218.5" cy="146" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M1221.2656,141.875 Q1221.4219,141.6563 1221.6094,141.5469 Q1221.7969,141.4375 1222.0156,141.4375 Q1222.3906,141.4375 1222.625,141.7031 Q1222.8594,141.9531 1222.8594,142.5625 L1222.8594,144.0156 Q1222.8594,144.625 1222.625,144.8906 Q1222.3906,145.1563 1222.0156,145.1563 Q1221.6719,145.1563 1221.4688,144.9531 Q1221.2656,144.7656 1221.1563,144.25 Q1221.1094,143.8906 1220.9219,143.7031 Q1220.5938,143.3281 1219.9844,143.1094 Q1219.375,142.8906 1218.75,142.8906 Q1217.9844,142.8906 1217.3438,143.2188 Q1216.7188,143.5469 1216.2188,144.2969 Q1215.7344,145.0469 1215.7344,146.0781 L1215.7344,147.1719 Q1215.7344,148.4063 1216.625,149.2344 Q1217.5156,150.0469 1219.1094,150.0469 Q1220.0469,150.0469 1220.7031,149.7969 Q1221.0938,149.6406 1221.5156,149.2031 Q1221.7813,148.9375 1221.9219,148.8594 Q1222.0781,148.7813 1222.2813,148.7813 Q1222.6094,148.7813 1222.8594,149.0469 Q1223.125,149.2969 1223.125,149.6406 Q1223.125,149.9844 1222.7813,150.3906 Q1222.2813,150.9688 1221.4844,151.2969 Q1220.4063,151.75 1219.1094,151.75 Q1217.5938,151.75 1216.3906,151.125 Q1215.4063,150.625 1214.7188,149.5625 Q1214.0313,148.4844 1214.0313,147.2031 L1214.0313,146.0469 Q1214.0313,144.7188 1214.6406,143.5781 Q1215.2656,142.4219 1216.3594,141.8125 Q1217.4531,141.1875 1218.6875,141.1875 Q1219.4219,141.1875 1220.0625,141.3594 Q1220.7188,141.5156 1221.2656,141.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="149" x="1232.5" y="151.7285">EVA2_7_PUBLICACION</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1204.5" x2="1383.5" y1="162" y2="162"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1204.5" x2="1383.5" y1="170" y2="170"/>
+        </g>
+        <!--class Libro-->
+        <g id="elem_Libro">
+            <rect codeLine="3" fill="#F1F1F1" height="48" id="Libro" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="64" x="990" y="130"/>
+            <ellipse cx="1005" cy="146" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M1007.7656,141.875 Q1007.9219,141.6563 1008.1094,141.5469 Q1008.2969,141.4375 1008.5156,141.4375 Q1008.8906,141.4375 1009.125,141.7031 Q1009.3594,141.9531 1009.3594,142.5625 L1009.3594,144.0156 Q1009.3594,144.625 1009.125,144.8906 Q1008.8906,145.1563 1008.5156,145.1563 Q1008.1719,145.1563 1007.9688,144.9531 Q1007.7656,144.7656 1007.6563,144.25 Q1007.6094,143.8906 1007.4219,143.7031 Q1007.0938,143.3281 1006.4844,143.1094 Q1005.875,142.8906 1005.25,142.8906 Q1004.4844,142.8906 1003.8438,143.2188 Q1003.2188,143.5469 1002.7188,144.2969 Q1002.2344,145.0469 1002.2344,146.0781 L1002.2344,147.1719 Q1002.2344,148.4063 1003.125,149.2344 Q1004.0156,150.0469 1005.6094,150.0469 Q1006.5469,150.0469 1007.2031,149.7969 Q1007.5938,149.6406 1008.0156,149.2031 Q1008.2813,148.9375 1008.4219,148.8594 Q1008.5781,148.7813 1008.7813,148.7813 Q1009.1094,148.7813 1009.3594,149.0469 Q1009.625,149.2969 1009.625,149.6406 Q1009.625,149.9844 1009.2813,150.3906 Q1008.7813,150.9688 1007.9844,151.2969 Q1006.9063,151.75 1005.6094,151.75 Q1004.0938,151.75 1002.8906,151.125 Q1001.9063,150.625 1001.2188,149.5625 Q1000.5313,148.4844 1000.5313,147.2031 L1000.5313,146.0469 Q1000.5313,144.7188 1001.1406,143.5781 Q1001.7656,142.4219 1002.8594,141.8125 Q1003.9531,141.1875 1005.1875,141.1875 Q1005.9219,141.1875 1006.5625,141.3594 Q1007.2188,141.5156 1007.7656,141.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="32" x="1019" y="151.7285">Libro</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="991" x2="1053" y1="162" y2="162"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="991" x2="1053" y1="170" y2="170"/>
+        </g>
+        <!--class Publicacion-->
+        <g id="elem_Publicacion">
+            <rect codeLine="4" fill="#F1F1F1" height="48" id="Publicacion" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="104" x="1058" y="423"/>
+            <ellipse cx="1073" cy="439" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M1075.7656,434.875 Q1075.9219,434.6563 1076.1094,434.5469 Q1076.2969,434.4375 1076.5156,434.4375 Q1076.8906,434.4375 1077.125,434.7031 Q1077.3594,434.9531 1077.3594,435.5625 L1077.3594,437.0156 Q1077.3594,437.625 1077.125,437.8906 Q1076.8906,438.1563 1076.5156,438.1563 Q1076.1719,438.1563 1075.9688,437.9531 Q1075.7656,437.7656 1075.6563,437.25 Q1075.6094,436.8906 1075.4219,436.7031 Q1075.0938,436.3281 1074.4844,436.1094 Q1073.875,435.8906 1073.25,435.8906 Q1072.4844,435.8906 1071.8438,436.2188 Q1071.2188,436.5469 1070.7188,437.2969 Q1070.2344,438.0469 1070.2344,439.0781 L1070.2344,440.1719 Q1070.2344,441.4063 1071.125,442.2344 Q1072.0156,443.0469 1073.6094,443.0469 Q1074.5469,443.0469 1075.2031,442.7969 Q1075.5938,442.6406 1076.0156,442.2031 Q1076.2813,441.9375 1076.4219,441.8594 Q1076.5781,441.7813 1076.7813,441.7813 Q1077.1094,441.7813 1077.3594,442.0469 Q1077.625,442.2969 1077.625,442.6406 Q1077.625,442.9844 1077.2813,443.3906 Q1076.7813,443.9688 1075.9844,444.2969 Q1074.9063,444.75 1073.6094,444.75 Q1072.0938,444.75 1070.8906,444.125 Q1069.9063,443.625 1069.2188,442.5625 Q1068.5313,441.4844 1068.5313,440.2031 L1068.5313,439.0469 Q1068.5313,437.7188 1069.1406,436.5781 Q1069.7656,435.4219 1070.8594,434.8125 Q1071.9531,434.1875 1073.1875,434.1875 Q1073.9219,434.1875 1074.5625,434.3594 Q1075.2188,434.5156 1075.7656,434.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="72" x="1087" y="444.7285">Publicacion</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1059" x2="1161" y1="455" y2="455"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1059" x2="1161" y1="463" y2="463"/>
+        </g>
+        <!--class Revista-->
+        <g id="elem_Revista">
+            <rect codeLine="5" fill="#F1F1F1" height="48" id="Revista" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="79" x="1089.5" y="130"/>
+            <ellipse cx="1104.5" cy="146" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M1107.2656,141.875 Q1107.4219,141.6563 1107.6094,141.5469 Q1107.7969,141.4375 1108.0156,141.4375 Q1108.3906,141.4375 1108.625,141.7031 Q1108.8594,141.9531 1108.8594,142.5625 L1108.8594,144.0156 Q1108.8594,144.625 1108.625,144.8906 Q1108.3906,145.1563 1108.0156,145.1563 Q1107.6719,145.1563 1107.4688,144.9531 Q1107.2656,144.7656 1107.1563,144.25 Q1107.1094,143.8906 1106.9219,143.7031 Q1106.5938,143.3281 1105.9844,143.1094 Q1105.375,142.8906 1104.75,142.8906 Q1103.9844,142.8906 1103.3438,143.2188 Q1102.7188,143.5469 1102.2188,144.2969 Q1101.7344,145.0469 1101.7344,146.0781 L1101.7344,147.1719 Q1101.7344,148.4063 1102.625,149.2344 Q1103.5156,150.0469 1105.1094,150.0469 Q1106.0469,150.0469 1106.7031,149.7969 Q1107.0938,149.6406 1107.5156,149.2031 Q1107.7813,148.9375 1107.9219,148.8594 Q1108.0781,148.7813 1108.2813,148.7813 Q1108.6094,148.7813 1108.8594,149.0469 Q1109.125,149.2969 1109.125,149.6406 Q1109.125,149.9844 1108.7813,150.3906 Q1108.2813,150.9688 1107.4844,151.2969 Q1106.4063,151.75 1105.1094,151.75 Q1103.5938,151.75 1102.3906,151.125 Q1101.4063,150.625 1100.7188,149.5625 Q1100.0313,148.4844 1100.0313,147.2031 L1100.0313,146.0469 Q1100.0313,144.7188 1100.6406,143.5781 Q1101.2656,142.4219 1102.3594,141.8125 Q1103.4531,141.1875 1104.6875,141.1875 Q1105.4219,141.1875 1106.0625,141.3594 Q1106.7188,141.5156 1107.2656,141.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="47" x="1118.5" y="151.7285">Revista</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1090.5" x2="1167.5" y1="162" y2="162"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1090.5" x2="1167.5" y1="170" y2="170"/>
+        </g>
+        <!--class Datos-->
+        <g id="elem_Datos">
+            <rect codeLine="6" fill="#F1F1F1" height="48" id="Datos" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="69" x="1075.5" y="637.5"/>
+            <ellipse cx="1090.5" cy="653.5" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M1091.4531,650.1406 L1091.4531,656.7969 L1093.1719,656.7969 Q1093.7813,656.7969 1094.0469,657.0313 Q1094.3125,657.2656 1094.3125,657.6563 Q1094.3125,658.0313 1094.0469,658.2656 Q1093.7813,658.5 1093.1719,658.5 L1088.0313,658.5 Q1087.4219,658.5 1087.1563,658.2656 Q1086.8906,658.0313 1086.8906,657.6406 Q1086.8906,657.2656 1087.1563,657.0313 Q1087.4219,656.7969 1088.0313,656.7969 L1089.75,656.7969 L1089.75,650.1406 L1088.0313,650.1406 Q1087.4219,650.1406 1087.1563,649.9063 Q1086.8906,649.6719 1086.8906,649.2813 Q1086.8906,648.9063 1087.1563,648.6719 Q1087.4219,648.4375 1088.0313,648.4375 L1093.1719,648.4375 Q1093.7813,648.4375 1094.0469,648.6719 Q1094.3125,648.9063 1094.3125,649.2813 Q1094.3125,649.6719 1094.0469,649.9063 Q1093.7813,650.1406 1093.1719,650.1406 L1091.4531,650.1406 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="37" x="1104.5" y="659.2285">Datos</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1076.5" x2="1143.5" y1="669.5" y2="669.5"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1076.5" x2="1143.5" y1="677.5" y2="677.5"/>
+        </g>
+        <!--class Datos-->
+        <g id="elem_Datos">
+            <rect codeLine="15" fill="#F1F1F1" height="65.6094" id="Datos" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="155" x="163.5" y="121"/>
+            <ellipse cx="218.25" cy="137" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M219.2031,133.6406 L219.2031,140.2969 L220.9219,140.2969 Q221.5313,140.2969 221.7969,140.5313 Q222.0625,140.7656 222.0625,141.1563 Q222.0625,141.5313 221.7969,141.7656 Q221.5313,142 220.9219,142 L215.7813,142 Q215.1719,142 214.9063,141.7656 Q214.6406,141.5313 214.6406,141.1406 Q214.6406,140.7656 214.9063,140.5313 Q215.1719,140.2969 215.7813,140.2969 L217.5,140.2969 L217.5,133.6406 L215.7813,133.6406 Q215.1719,133.6406 214.9063,133.4063 Q214.6406,133.1719 214.6406,132.7813 Q214.6406,132.4063 214.9063,132.1719 Q215.1719,131.9375 215.7813,131.9375 L220.9219,131.9375 Q221.5313,131.9375 221.7969,132.1719 Q222.0625,132.4063 222.0625,132.7813 Q222.0625,133.1719 221.7969,133.4063 Q221.5313,133.6406 220.9219,133.6406 L219.2031,133.6406 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="37" x="238.75" y="142.7285">Datos</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="164.5" x2="317.5" y1="153" y2="153"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="164.5" x2="317.5" y1="161" y2="161"/>
+            <ellipse cx="174.5" cy="175.3047" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="129" x="183.5" y="179.5332">mostrarDatos(): void</text>
+        </g>
+        <!--class Publicacion-->
+        <g id="elem_Publicacion">
+            <rect codeLine="19" fill="#F1F1F1" height="276.9219" id="Publicacion" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="353" x="353.5" y="15.5"/>
+            <ellipse cx="489.75" cy="31.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M492.5156,27.375 Q492.6719,27.1563 492.8594,27.0469 Q493.0469,26.9375 493.2656,26.9375 Q493.6406,26.9375 493.875,27.2031 Q494.1094,27.4531 494.1094,28.0625 L494.1094,29.5156 Q494.1094,30.125 493.875,30.3906 Q493.6406,30.6563 493.2656,30.6563 Q492.9219,30.6563 492.7188,30.4531 Q492.5156,30.2656 492.4063,29.75 Q492.3594,29.3906 492.1719,29.2031 Q491.8438,28.8281 491.2344,28.6094 Q490.625,28.3906 490,28.3906 Q489.2344,28.3906 488.5938,28.7188 Q487.9688,29.0469 487.4688,29.7969 Q486.9844,30.5469 486.9844,31.5781 L486.9844,32.6719 Q486.9844,33.9063 487.875,34.7344 Q488.7656,35.5469 490.3594,35.5469 Q491.2969,35.5469 491.9531,35.2969 Q492.3438,35.1406 492.7656,34.7031 Q493.0313,34.4375 493.1719,34.3594 Q493.3281,34.2813 493.5313,34.2813 Q493.8594,34.2813 494.1094,34.5469 Q494.375,34.7969 494.375,35.1406 Q494.375,35.4844 494.0313,35.8906 Q493.5313,36.4688 492.7344,36.7969 Q491.6563,37.25 490.3594,37.25 Q488.8438,37.25 487.6406,36.625 Q486.6563,36.125 485.9688,35.0625 Q485.2813,33.9844 485.2813,32.7031 L485.2813,31.5469 Q485.2813,30.2188 485.8906,29.0781 Q486.5156,27.9219 487.6094,27.3125 Q488.7031,26.6875 489.9375,26.6875 Q490.6719,26.6875 491.3125,26.8594 Q491.9688,27.0156 492.5156,27.375 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="72" x="510.25" y="37.2285">Publicacion</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="354.5" x2="705.5" y1="47.5" y2="47.5"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="361.5" y="58.8047"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="75" x="373.5" y="66.0332">titulo: String</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="361.5" y="76.4141"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="90" x="373.5" y="83.6426">precio: double</text>
+            <polygon fill="none" points="364.5,92.0234,368.5,96.0234,364.5,100.0234,360.5,96.0234" style="stroke:#B38D22;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="64" x="373.5" y="101.252">copias: int</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="354.5" x2="705.5" y1="108.3281" y2="108.3281"/>
+            <ellipse cx="364.5" cy="122.6328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="82" x="373.5" y="126.8613">Publicacion()</text>
+            <ellipse cx="364.5" cy="140.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="327" x="373.5" y="144.4707">Publicacion(titulo: String, precio: double, copias: int)</text>
+            <ellipse cx="364.5" cy="157.8516" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="110" x="373.5" y="162.0801">getTitulo(): String</text>
+            <ellipse cx="364.5" cy="175.4609" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="173" x="373.5" y="179.6895">setTitulo(titulo: String): void</text>
+            <ellipse cx="364.5" cy="193.0703" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="373.5" y="197.2988">getPrecio(): double</text>
+            <ellipse cx="364.5" cy="210.6797" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="193" x="373.5" y="214.9082">setPrecio(precio: double): void</text>
+            <polygon fill="#FFFF44" points="364.5,223.2891,368.5,227.2891,364.5,231.2891,360.5,227.2891" style="stroke:#B38D22;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="97" x="373.5" y="232.5176">getCopias(): int</text>
+            <ellipse cx="364.5" cy="245.8984" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="171" x="373.5" y="250.127">setCopias(copias: int): void</text>
+            <ellipse cx="364.5" cy="263.5078" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="132" x="373.5" y="267.7363">venderCopias(): void</text>
+            <ellipse cx="364.5" cy="281.1172" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="129" x="373.5" y="285.3457">mostrarDatos(): void</text>
+        </g>
+        <!--class Revista-->
+        <g id="elem_Revista">
+            <rect codeLine="36" fill="#F1F1F1" height="188.875" id="Revista" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="468" x="7" y="352.5"/>
+            <ellipse cx="213.25" cy="368.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M216.0156,364.375 Q216.1719,364.1563 216.3594,364.0469 Q216.5469,363.9375 216.7656,363.9375 Q217.1406,363.9375 217.375,364.2031 Q217.6094,364.4531 217.6094,365.0625 L217.6094,366.5156 Q217.6094,367.125 217.375,367.3906 Q217.1406,367.6563 216.7656,367.6563 Q216.4219,367.6563 216.2188,367.4531 Q216.0156,367.2656 215.9063,366.75 Q215.8594,366.3906 215.6719,366.2031 Q215.3438,365.8281 214.7344,365.6094 Q214.125,365.3906 213.5,365.3906 Q212.7344,365.3906 212.0938,365.7188 Q211.4688,366.0469 210.9688,366.7969 Q210.4844,367.5469 210.4844,368.5781 L210.4844,369.6719 Q210.4844,370.9063 211.375,371.7344 Q212.2656,372.5469 213.8594,372.5469 Q214.7969,372.5469 215.4531,372.2969 Q215.8438,372.1406 216.2656,371.7031 Q216.5313,371.4375 216.6719,371.3594 Q216.8281,371.2813 217.0313,371.2813 Q217.3594,371.2813 217.6094,371.5469 Q217.875,371.7969 217.875,372.1406 Q217.875,372.4844 217.5313,372.8906 Q217.0313,373.4688 216.2344,373.7969 Q215.1563,374.25 213.8594,374.25 Q212.3438,374.25 211.1406,373.625 Q210.1563,373.125 209.4688,372.0625 Q208.7813,370.9844 208.7813,369.7031 L208.7813,368.5469 Q208.7813,367.2188 209.3906,366.0781 Q210.0156,364.9219 211.1094,364.3125 Q212.2031,363.6875 213.4375,363.6875 Q214.1719,363.6875 214.8125,363.8594 Q215.4688,364.0156 216.0156,364.375 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="47" x="233.75" y="374.2285">Revista</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="474" y1="384.5" y2="384.5"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="395.8047"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="132" x="27" y="403.0332">numeroActual: String</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="474" y1="410.1094" y2="410.1094"/>
+            <ellipse cx="18" cy="424.4141" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="57" x="27" y="428.6426">Revista()</text>
+            <ellipse cx="18" cy="442.0234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="442" x="27" y="446.252">Revista(numeroActual: String, titulo: String, precio: double, copias: int)</text>
+            <ellipse cx="18" cy="459.6328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="259" x="27" y="463.8613">recibirEdicion(nuevaEdicion: String): void</text>
+            <ellipse cx="18" cy="477.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="218" x="27" y="481.4707">hacerEdiciones(cantidad: int): void</text>
+            <ellipse cx="18" cy="494.8516" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="163" x="27" y="499.0801">getNumeroActual(): String</text>
+            <ellipse cx="18" cy="512.4609" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="283" x="27" y="516.6895">setNumeroActual(numeroActual: String): void</text>
+            <ellipse cx="18" cy="530.0703" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="129" x="27" y="534.2988">mostrarDatos(): void</text>
+        </g>
+        <!--class Libro-->
+        <g id="elem_Libro">
+            <rect codeLine="48" fill="#F1F1F1" height="171.2656" id="Libro" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="399" x="510.5" y="361.5"/>
+            <ellipse cx="689.75" cy="377.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M692.5156,373.375 Q692.6719,373.1563 692.8594,373.0469 Q693.0469,372.9375 693.2656,372.9375 Q693.6406,372.9375 693.875,373.2031 Q694.1094,373.4531 694.1094,374.0625 L694.1094,375.5156 Q694.1094,376.125 693.875,376.3906 Q693.6406,376.6563 693.2656,376.6563 Q692.9219,376.6563 692.7188,376.4531 Q692.5156,376.2656 692.4063,375.75 Q692.3594,375.3906 692.1719,375.2031 Q691.8438,374.8281 691.2344,374.6094 Q690.625,374.3906 690,374.3906 Q689.2344,374.3906 688.5938,374.7188 Q687.9688,375.0469 687.4688,375.7969 Q686.9844,376.5469 686.9844,377.5781 L686.9844,378.6719 Q686.9844,379.9063 687.875,380.7344 Q688.7656,381.5469 690.3594,381.5469 Q691.2969,381.5469 691.9531,381.2969 Q692.3438,381.1406 692.7656,380.7031 Q693.0313,380.4375 693.1719,380.3594 Q693.3281,380.2813 693.5313,380.2813 Q693.8594,380.2813 694.1094,380.5469 Q694.375,380.7969 694.375,381.1406 Q694.375,381.4844 694.0313,381.8906 Q693.5313,382.4688 692.7344,382.7969 Q691.6563,383.25 690.3594,383.25 Q688.8438,383.25 687.6406,382.625 Q686.6563,382.125 685.9688,381.0625 Q685.2813,379.9844 685.2813,378.7031 L685.2813,377.5469 Q685.2813,376.2188 685.8906,375.0781 Q686.5156,373.9219 687.6094,373.3125 Q688.7031,372.6875 689.9375,372.6875 Q690.6719,372.6875 691.3125,372.8594 Q691.9688,373.0156 692.5156,373.375 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="32" x="710.25" y="383.2285">Libro</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="511.5" x2="908.5" y1="393.5" y2="393.5"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="518.5" y="404.8047"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="530.5" y="412.0332">autor: String</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="511.5" x2="908.5" y1="419.1094" y2="419.1094"/>
+            <ellipse cx="521.5" cy="433.4141" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="42" x="530.5" y="437.6426">Libro()</text>
+            <ellipse cx="521.5" cy="451.0234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="373" x="530.5" y="455.252">Libro(autor: String, titulo: String, precio: double, copias: int)</text>
+            <ellipse cx="521.5" cy="468.6328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="109" x="530.5" y="472.8613">getAutor(): String</text>
+            <ellipse cx="521.5" cy="486.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="175" x="530.5" y="490.4707">setAutor(autor: String): void</text>
+            <ellipse cx="521.5" cy="503.8516" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="215" x="530.5" y="508.0801">guardarCopias(cantidad: int): void</text>
+            <ellipse cx="521.5" cy="521.4609" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="129" x="530.5" y="525.6895">mostrarDatos(): void</text>
+        </g>
+        <!--link Libro to Override-->
+        <g id="link_Libro_Override">
+            <path codeLine="7" d="M1025.32,178.19 C1030.6,207.73 1043.4,258.97 1072,292.5 C1107.64,334.28 1135.27,320.65 1180,352.5 C1282.56,425.53 1292.81,462.71 1391,541.5 C1434.97,576.79 1483.4008,610.7627 1517.5408,634.0127 " fill="none" id="Libro-to-Override" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="#181818" points="1522.5,637.39,1517.3127,629.0179,1518.3673,634.5756,1512.8096,635.6302,1522.5,637.39" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--link Libro to Publicacion-->
+        <g id="link_Libro_Publicacion">
+            <path codeLine="8" d="M1029.05,178.32 C1045.57,232.94 1081.3996,351.4106 1097.8296,405.7406 " fill="none" id="Libro-to-Publicacion" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="1103.04,422.97,1103.5728,404.0038,1092.0865,407.4774,1103.04,422.97" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--link Libro to Datos-->
+        <g id="link_Libro_Datos">
+            <path codeLine="9" d="M1019.4,178.28 C1013.38,239.39 1001.79,408.78 1041,541.5 C1051.69,577.69 1064.892,599.9662 1081.532,622.8762 " fill="none" id="Libro-to-Datos" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="1092.11,637.44,1086.3866,619.3502,1076.6774,626.4022,1092.11,637.44" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--link Publicacion to Override-->
+        <g id="link_Publicacion_Override">
+            <path codeLine="10" d="M1157.47,471.06 C1203.75,492.56 1276.65,523.9 1343,541.5 C1368.15,548.17 1376.81,539.9 1401,549.5 C1452.91,570.1 1499.4102,607.4462 1528.3102,633.4562 " fill="none" id="Publicacion-to-Override" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="#181818" points="1532.77,637.47,1528.7562,628.4761,1529.0535,634.1252,1523.4045,634.4225,1532.77,637.47" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--link Publicacion to Datos-->
+        <g id="link_Publicacion_Datos">
+            <path codeLine="11" d="M1110,471.15 C1110,512.02 1110,578.53 1110,619.38 " fill="none" id="Publicacion-to-Datos" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="1110,637.38,1116,619.38,1104,619.38,1110,637.38" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--link Revista to Override-->
+        <g id="link_Revista_Override">
+            <path codeLine="12" d="M1132.28,178.02 C1137.85,208.58 1152.07,262.21 1186,292.5 C1258.1,356.85 1320.04,291.5 1395,352.5 C1490.6,430.29 1535.2149,573.8793 1550.0049,631.3593 " fill="none" id="Revista-to-Override" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="#181818" points="1551.5,637.17,1553.1311,627.4571,1550.254,632.3277,1545.3835,629.4507,1551.5,637.17" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--link Revista to Publicacion-->
+        <g id="link_Revista_Publicacion">
+            <path codeLine="13" d="M1127.48,178.32 C1123.91,232.94 1116.2236,350.6783 1112.6736,405.0083 " fill="none" id="Revista-to-Publicacion" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="1111.5,422.97,1118.6609,405.3995,1106.6864,404.6171,1111.5,422.97" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--link Revista to Datos-->
+        <g id="link_Revista_Datos">
+            <path codeLine="14" d="M1138.27,178.08 C1161.29,238.68 1216.63,406.97 1180,541.5 C1170.11,577.81 1156.8311,599.9483 1139.6811,622.7783 " fill="none" id="Revista-to-Datos" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="1128.87,637.17,1144.4783,626.382,1134.8839,619.1746,1128.87,637.17" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--SRC=[jLGzRy8m4DtpAoonW80CNIfbG4ef0n82rAyL7ObBNILsv3YHKDl_NiUnWuCi6YAQ0SLtzzwzU-S0b381WZ2AFg44Fm5wy3Sbvfp4s8iIo7CKiTHFZ_8t0thqSGbtk_jTLkmJ4a4aaVxYBQn2szU7rN8UpfURTLVaYkmvwrgyFRrtXJpXakG2F485vkyGuRyXZo1OxdLJZdn_vlIj6tew_PvTEVOjYJjEQlNlFQ_DSLDnUi6zXHdyFwpYEkfwtjCzLMVqvI7vZ57ASi61g-1m5A2IaTZxyVHdOBjR8wP8454aB43FWXDwqC6COraKe9X915R1WPIM4SW397jxkfr5E1mvOctooHdlnAOqy0CMBmfLoRT4ZL7UPDgqPim6lrLTAhobN-5rfYt3nWyg_5ofgl3Lg0rOXstDhSubfZ7c9x2LkhmMSm7CIcYHOix2I1IGD1ve9btRk6tEBim4zV2_gjWJleY9sY0jv1tK1xVX7_8Mcd8ixG4gI0onmo1fxTgIwLfmA- -QwHfVw_yuuoeKWl5pErL9OsPzQXNsyb0E6bOahWdhHAl7cKi5y1ZCFRfWftluNm00]-->
+    </g>
+</svg>

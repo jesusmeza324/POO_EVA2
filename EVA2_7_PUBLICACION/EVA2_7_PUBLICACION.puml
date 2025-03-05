@@ -1,0 +1,59 @@
+@startuml
+annotation java.lang.Override
+class com.mycompany.eva2_7_publicacion.EVA2_7_PUBLICACION
+class com.mycompany.eva2_7_publicacion.Libro
+class com.mycompany.eva2_7_publicacion.Publicacion
+class com.mycompany.eva2_7_publicacion.Revista
+interface com.mycompany.eva2_7_publicacion.Datos
+com.mycompany.eva2_7_publicacion.Libro ..> java.lang.Override
+com.mycompany.eva2_7_publicacion.Libro --|> com.mycompany.eva2_7_publicacion.Publicacion
+com.mycompany.eva2_7_publicacion.Libro --|> com.mycompany.eva2_7_publicacion.Datos
+com.mycompany.eva2_7_publicacion.Publicacion ..> java.lang.Override
+com.mycompany.eva2_7_publicacion.Publicacion --|> com.mycompany.eva2_7_publicacion.Datos
+com.mycompany.eva2_7_publicacion.Revista ..> java.lang.Override
+com.mycompany.eva2_7_publicacion.Revista --|> com.mycompany.eva2_7_publicacion.Publicacion
+com.mycompany.eva2_7_publicacion.Revista --|> com.mycompany.eva2_7_publicacion.Datos
+interface Datos {
+    + mostrarDatos(): void
+}
+
+class Publicacion {
+    - titulo: String
+    - precio: double
+    # copias: int
+
+    + Publicacion()
+    + Publicacion(titulo: String, precio: double, copias: int)
+    + getTitulo(): String
+    + setTitulo(titulo: String): void
+    + getPrecio(): double
+    + setPrecio(precio: double): void
+    # getCopias(): int
+    + setCopias(copias: int): void
+    + venderCopias(): void
+    + mostrarDatos(): void
+}
+
+class Revista {
+    - numeroActual: String
+
+    + Revista()
+    + Revista(numeroActual: String, titulo: String, precio: double, copias: int)
+    + recibirEdicion(nuevaEdicion: String): void
+    + hacerEdiciones(cantidad: int): void
+    + getNumeroActual(): String
+    + setNumeroActual(numeroActual: String): void
+    + mostrarDatos(): void
+}
+
+class Libro {
+    - autor: String
+
+    + Libro()
+    + Libro(autor: String, titulo: String, precio: double, copias: int)
+    + getAutor(): String
+    + setAutor(autor: String): void
+    + guardarCopias(cantidad: int): void
+    + mostrarDatos(): void
+}
+@enduml
