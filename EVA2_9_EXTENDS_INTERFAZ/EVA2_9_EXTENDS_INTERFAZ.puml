@@ -1,0 +1,30 @@
+@startuml
+annotation java.lang.Override
+class com.mycompany.eva2_9_extends_interfaz.Automovil
+class com.mycompany.eva2_9_extends_interfaz.EVA2_9_EXTENDS_INTERFAZ
+interface com.mycompany.eva2_9_extends_interfaz.Extras
+interface com.mycompany.eva2_9_extends_interfaz.MostrarMensaje
+com.mycompany.eva2_9_extends_interfaz.Automovil ..> java.lang.Override
+com.mycompany.eva2_9_extends_interfaz.Automovil --|> com.mycompany.eva2_9_extends_interfaz.MostrarMensaje
+com.mycompany.eva2_9_extends_interfaz.MostrarMensaje --|> com.mycompany.eva2_9_extends_interfaz.Extras
+class Automovil {
+    - marca: String
+    - modelo: String
+
+    + Automovil()
+    + Automovil(marca: String, modelo: String)
+    + getMarca(): String
+    + setMarca(marca: String): void
+    + getModelo(): String
+    + setModelo(modelo: String): void
+    + mostrarMensaje(): void
+    + mostrarMensaje(mensaje: String): void
+}
+interface Extras {
+    + mostrarMensaje(mensaje: String): void
+}
+
+interface MostrarMensaje {
+    + mostrarMensaje(): void
+}
+@enduml
