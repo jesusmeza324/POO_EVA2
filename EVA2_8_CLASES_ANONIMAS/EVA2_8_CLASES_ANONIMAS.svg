@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="448px" preserveAspectRatio="none" style="width:1260px;height:448px;background:#FFFFFF;" version="1.1" viewBox="0 0 1260 448" width="1260px" zoomAndPan="magnify">
+    <defs/>
+    <g>
+        <!--cluster com-->
+        <g id="cluster_com">
+            <path d="M614,6 L644,6 A3.75,3.75 0 0 1 646.5,8.5 L653.5,29.6094 L1251,29.6094 A2.5,2.5 0 0 1 1253.5,32.1094 L1253.5,239.5 A2.5,2.5 0 0 1 1251,242 L614,242 A2.5,2.5 0 0 1 611.5,239.5 L611.5,8.5 A2.5,2.5 0 0 1 614,6 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="611.5" x2="653.5" y1="29.6094" y2="29.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="29" x="615.5" y="22.5332">com</text>
+        </g>
+        <!--cluster mycompany-->
+        <g id="cluster_mycompany">
+            <path d="M638,50 L720,50 A3.75,3.75 0 0 1 722.5,52.5 L729.5,73.6094 L1227,73.6094 A2.5,2.5 0 0 1 1229.5,76.1094 L1229.5,215.5 A2.5,2.5 0 0 1 1227,218 L638,218 A2.5,2.5 0 0 1 635.5,215.5 L635.5,52.5 A2.5,2.5 0 0 1 638,50 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="635.5" x2="729.5" y1="73.6094" y2="73.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="81" x="639.5" y="66.5332">mycompany</text>
+        </g>
+        <!--cluster eva2_8_clases_anonimas-->
+        <g id="cluster_eva2_8_clases_anonimas">
+            <path d="M662,94 L841,94 A3.75,3.75 0 0 1 843.5,96.5 L850.5,117.6094 L1203,117.6094 A2.5,2.5 0 0 1 1205.5,120.1094 L1205.5,191.5 A2.5,2.5 0 0 1 1203,194 L662,194 A2.5,2.5 0 0 1 659.5,191.5 L659.5,96.5 A2.5,2.5 0 0 1 662,94 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="659.5" x2="850.5" y1="117.6094" y2="117.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="178" x="663.5" y="110.5332">eva2_8_clases_anonimas</text>
+        </g>
+        <!--cluster java-->
+        <g id="cluster_java">
+            <path d="M876,273 L906,273 A3.75,3.75 0 0 1 908.5,275.5 L915.5,296.6094 L1039,296.6094 A2.5,2.5 0 0 1 1041.5,299.1094 L1041.5,438.5 A2.5,2.5 0 0 1 1039,441 L876,441 A2.5,2.5 0 0 1 873.5,438.5 L873.5,275.5 A2.5,2.5 0 0 1 876,273 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="873.5" x2="915.5" y1="296.6094" y2="296.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="29" x="877.5" y="289.5332">java</text>
+        </g>
+        <!--cluster lang-->
+        <g id="cluster_lang">
+            <path d="M900,317 L931,317 A3.75,3.75 0 0 1 933.5,319.5 L940.5,340.6094 L1015,340.6094 A2.5,2.5 0 0 1 1017.5,343.1094 L1017.5,414.5 A2.5,2.5 0 0 1 1015,417 L900,417 A2.5,2.5 0 0 1 897.5,414.5 L897.5,319.5 A2.5,2.5 0 0 1 900,317 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="897.5" x2="940.5" y1="340.6094" y2="340.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="30" x="901.5" y="333.5332">lang</text>
+        </g>
+        <!--class Persona-->
+        <g id="elem_Persona">
+            <rect codeLine="1" fill="#F1F1F1" height="48" id="Persona" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="85" x="1104" y="130"/>
+            <ellipse cx="1119" cy="146" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M1121.1875,147.7656 L1117.0469,147.7656 L1116.625,148.7969 L1117.0469,148.7969 Q1117.6563,148.7969 1117.9219,149.0313 Q1118.1875,149.2656 1118.1875,149.6563 Q1118.1875,150.0313 1117.9219,150.2656 Q1117.6563,150.5 1117.0469,150.5 L1114.75,150.5 Q1114.1406,150.5 1113.8906,150.2656 Q1113.625,150.0313 1113.625,149.6406 Q1113.625,149.2656 1113.9063,149.0313 Q1114.1719,148.7813 1114.7969,148.7969 L1117.4688,142.1406 L1116.3594,142.1406 Q1115.75,142.1406 1115.4844,141.9063 Q1115.2188,141.6719 1115.2188,141.2813 Q1115.2188,140.9063 1115.4844,140.6719 Q1115.75,140.4375 1116.3594,140.4375 L1120.0313,140.4375 L1123.4219,148.7969 Q1124.0156,148.7969 1124.2031,148.9375 Q1124.5938,149.2031 1124.5938,149.6563 Q1124.5938,150.0313 1124.3281,150.2656 Q1124.0781,150.5 1123.4688,150.5 L1121.1719,150.5 Q1120.5625,150.5 1120.2969,150.2656 Q1120.0313,150.0313 1120.0313,149.6406 Q1120.0313,149.2656 1120.2969,149.0313 Q1120.5625,148.7969 1121.1719,148.7969 L1121.5938,148.7969 L1121.1875,147.7656 Z M1120.4688,146.0625 L1119.1094,142.6875 L1117.7344,146.0625 L1120.4688,146.0625 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="53" x="1133" y="151.7285">Persona</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1105" x2="1188" y1="162" y2="162"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1105" x2="1188" y1="170" y2="170"/>
+        </g>
+        <!--class EVA2_8_CLASES_ANONIMAS-->
+        <g id="elem_EVA2_8_CLASES_ANONIMAS">
+            <rect codeLine="3" fill="#F1F1F1" height="48" id="EVA2_8_CLASES_ANONIMAS" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="223" x="846" y="130"/>
+            <ellipse cx="861" cy="146" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M863.7656,141.875 Q863.9219,141.6563 864.1094,141.5469 Q864.2969,141.4375 864.5156,141.4375 Q864.8906,141.4375 865.125,141.7031 Q865.3594,141.9531 865.3594,142.5625 L865.3594,144.0156 Q865.3594,144.625 865.125,144.8906 Q864.8906,145.1563 864.5156,145.1563 Q864.1719,145.1563 863.9688,144.9531 Q863.7656,144.7656 863.6563,144.25 Q863.6094,143.8906 863.4219,143.7031 Q863.0938,143.3281 862.4844,143.1094 Q861.875,142.8906 861.25,142.8906 Q860.4844,142.8906 859.8438,143.2188 Q859.2188,143.5469 858.7188,144.2969 Q858.2344,145.0469 858.2344,146.0781 L858.2344,147.1719 Q858.2344,148.4063 859.125,149.2344 Q860.0156,150.0469 861.6094,150.0469 Q862.5469,150.0469 863.2031,149.7969 Q863.5938,149.6406 864.0156,149.2031 Q864.2813,148.9375 864.4219,148.8594 Q864.5781,148.7813 864.7813,148.7813 Q865.1094,148.7813 865.3594,149.0469 Q865.625,149.2969 865.625,149.6406 Q865.625,149.9844 865.2813,150.3906 Q864.7813,150.9688 863.9844,151.2969 Q862.9063,151.75 861.6094,151.75 Q860.0938,151.75 858.8906,151.125 Q857.9063,150.625 857.2188,149.5625 Q856.5313,148.4844 856.5313,147.2031 L856.5313,146.0469 Q856.5313,144.7188 857.1406,143.5781 Q857.7656,142.4219 858.8594,141.8125 Q859.9531,141.1875 861.1875,141.1875 Q861.9219,141.1875 862.5625,141.3594 Q863.2188,141.5156 863.7656,141.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="191" x="875" y="151.7285">EVA2_8_CLASES_ANONIMAS</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="847" x2="1068" y1="162" y2="162"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="847" x2="1068" y1="170" y2="170"/>
+        </g>
+        <!--class MostrarMensaje-->
+        <g id="elem_MostrarMensaje">
+            <rect codeLine="4" fill="#F1F1F1" height="48" id="MostrarMensaje" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="135" x="676" y="130"/>
+            <ellipse cx="691" cy="146" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M691.9531,142.6406 L691.9531,149.2969 L693.6719,149.2969 Q694.2813,149.2969 694.5469,149.5313 Q694.8125,149.7656 694.8125,150.1563 Q694.8125,150.5313 694.5469,150.7656 Q694.2813,151 693.6719,151 L688.5313,151 Q687.9219,151 687.6563,150.7656 Q687.3906,150.5313 687.3906,150.1406 Q687.3906,149.7656 687.6563,149.5313 Q687.9219,149.2969 688.5313,149.2969 L690.25,149.2969 L690.25,142.6406 L688.5313,142.6406 Q687.9219,142.6406 687.6563,142.4063 Q687.3906,142.1719 687.3906,141.7813 Q687.3906,141.4063 687.6563,141.1719 Q687.9219,140.9375 688.5313,140.9375 L693.6719,140.9375 Q694.2813,140.9375 694.5469,141.1719 Q694.8125,141.4063 694.8125,141.7813 Q694.8125,142.1719 694.5469,142.4063 Q694.2813,142.6406 693.6719,142.6406 L691.9531,142.6406 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="103" x="705" y="151.7285">MostrarMensaje</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="677" x2="810" y1="162" y2="162"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="677" x2="810" y1="170" y2="170"/>
+        </g>
+        <!--class Override-->
+        <g id="elem_Override">
+            <rect codeLine="2" fill="#F1F1F1" height="48" id="Override" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="87" x="914" y="353"/>
+            <ellipse cx="929" cy="369" fill="#E3664A" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M931.3438,366.5781 L931.3438,366.0625 Q931.3438,365.2344 930.8594,364.7344 Q930.3906,364.2344 929.6406,364.2344 Q929.0469,364.2344 928.5156,364.6406 Q927.9844,365.0313 927.7188,365.6563 Q927.25,366.75 927.25,367.8594 L927.25,370.375 Q927.25,372.2969 928.1094,373.4219 Q928.6719,374.1719 929.6875,374.1719 Q930.2344,374.1719 930.6719,374.0313 Q931.125,373.8906 931.375,373.6406 Q931.625,373.3906 931.8438,373.3906 Q932.1094,373.3906 932.2969,373.5781 Q932.4844,373.7656 932.4844,374.0313 Q932.4844,374.4531 931.9063,374.8438 Q931.0781,375.4063 929.6406,375.4063 Q928.5469,375.4063 927.8281,374.9063 Q926.9063,374.2656 926.4531,373 Q926,371.7344 926,370.5 L926,367.7656 Q926,365.7813 926.9844,364.3906 Q927.9688,362.9844 929.6094,362.9844 Q930.3594,362.9844 931,363.2969 Q931.6563,363.5938 932.125,364.3594 Q932.5938,365.125 932.5938,366.0625 L932.5938,370.5938 Q932.9531,370.7656 932.9531,371.1563 Q932.9531,371.4375 932.75,371.625 Q932.5625,371.7969 932.0938,371.7969 L931.3438,371.7969 L931.3438,371.75 Q930.9531,371.8125 930.7656,371.8125 Q929.7656,371.8125 929.0156,371.0781 Q928.2813,370.3281 928.2813,369.3281 Q928.2813,368.2656 929.0938,367.4688 Q929.9219,366.6719 931.3438,366.5781 Z M931.3438,367.8594 Q930.4531,367.9531 929.9844,368.375 Q929.5313,368.7969 929.5313,369.3438 Q929.5313,369.8281 929.9063,370.1719 Q930.2969,370.5156 930.9375,370.5156 Q931.0625,370.5156 931.3438,370.5 L931.3438,367.8594 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="943" y="374.7285">Override</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="915" x2="1000" y1="385" y2="385"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="915" x2="1000" y1="393" y2="393"/>
+        </g>
+        <!--class MostrarMensaje-->
+        <g id="elem_MostrarMensaje">
+            <rect codeLine="6" fill="#F1F1F1" height="65.6094" id="MostrarMensaje" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="269" x="7" y="121"/>
+            <ellipse cx="85.75" cy="137" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M86.7031,133.6406 L86.7031,140.2969 L88.4219,140.2969 Q89.0313,140.2969 89.2969,140.5313 Q89.5625,140.7656 89.5625,141.1563 Q89.5625,141.5313 89.2969,141.7656 Q89.0313,142 88.4219,142 L83.2813,142 Q82.6719,142 82.4063,141.7656 Q82.1406,141.5313 82.1406,141.1406 Q82.1406,140.7656 82.4063,140.5313 Q82.6719,140.2969 83.2813,140.2969 L85,140.2969 L85,133.6406 L83.2813,133.6406 Q82.6719,133.6406 82.4063,133.4063 Q82.1406,133.1719 82.1406,132.7813 Q82.1406,132.4063 82.4063,132.1719 Q82.6719,131.9375 83.2813,131.9375 L88.4219,131.9375 Q89.0313,131.9375 89.2969,132.1719 Q89.5625,132.4063 89.5625,132.7813 Q89.5625,133.1719 89.2969,133.4063 Q89.0313,133.6406 88.4219,133.6406 L86.7031,133.6406 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="103" x="106.25" y="142.7285">MostrarMensaje</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="275" y1="153" y2="153"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="275" y1="161" y2="161"/>
+            <ellipse cx="18" cy="175.3047" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="243" x="27" y="179.5332">mostrarMensaje(mensaje: String): void</text>
+        </g>
+        <!--class Persona-->
+        <g id="elem_Persona">
+            <rect codeLine="10" fill="#F1F1F1" height="206.4844" id="Persona" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="284" x="311.5" y="51"/>
+            <ellipse cx="422.75" cy="67" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M424.9375,68.7656 L420.7969,68.7656 L420.375,69.7969 L420.7969,69.7969 Q421.4063,69.7969 421.6719,70.0313 Q421.9375,70.2656 421.9375,70.6563 Q421.9375,71.0313 421.6719,71.2656 Q421.4063,71.5 420.7969,71.5 L418.5,71.5 Q417.8906,71.5 417.6406,71.2656 Q417.375,71.0313 417.375,70.6406 Q417.375,70.2656 417.6563,70.0313 Q417.9219,69.7813 418.5469,69.7969 L421.2188,63.1406 L420.1094,63.1406 Q419.5,63.1406 419.2344,62.9063 Q418.9688,62.6719 418.9688,62.2813 Q418.9688,61.9063 419.2344,61.6719 Q419.5,61.4375 420.1094,61.4375 L423.7813,61.4375 L427.1719,69.7969 Q427.7656,69.7969 427.9531,69.9375 Q428.3438,70.2031 428.3438,70.6563 Q428.3438,71.0313 428.0781,71.2656 Q427.8281,71.5 427.2188,71.5 L424.9219,71.5 Q424.3125,71.5 424.0469,71.2656 Q423.7813,71.0313 423.7813,70.6406 Q423.7813,70.2656 424.0469,70.0313 Q424.3125,69.7969 424.9219,69.7969 L425.3438,69.7969 L424.9375,68.7656 Z M424.2188,67.0625 L422.8594,63.6875 L421.4844,67.0625 L424.2188,67.0625 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="53" x="443.25" y="72.7285">Persona</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="312.5" x2="594.5" y1="83" y2="83"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="319.5" y="94.3047"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="93" x="331.5" y="101.5332">nombre: String</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="319.5" y="111.9141"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="94" x="331.5" y="119.1426">apellido: String</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="312.5" x2="594.5" y1="126.2188" y2="126.2188"/>
+            <ellipse cx="322.5" cy="140.5234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="63" x="331.5" y="144.752">Persona()</text>
+            <ellipse cx="322.5" cy="158.1328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="258" x="331.5" y="162.3613">Persona(nombre: String, apellido: String)</text>
+            <ellipse cx="322.5" cy="175.7422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="124" x="331.5" y="179.9707">getNombre(): String</text>
+            <ellipse cx="322.5" cy="193.3516" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="205" x="331.5" y="197.5801">setNombre(nombre: String): void</text>
+            <ellipse cx="322.5" cy="210.9609" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="125" x="331.5" y="215.1895">getApellido(): String</text>
+            <ellipse cx="322.5" cy="228.5703" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="207" x="331.5" y="232.7988">setApellido(apellido: String): void</text>
+            <polygon fill="#FFFF44" points="322.5,241.1797,326.5,245.1797,322.5,249.1797,318.5,245.1797" style="stroke:#B38D22;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="130" x="331.5" y="250.4082">imprimirDatos(): void</text>
+        </g>
+        <!--link EVA2_8_CLASES_ANONIMAS to Override-->
+        <g id="link_EVA2_8_CLASES_ANONIMAS_Override">
+            <path codeLine="5" d="M957.5,178.23 C957.5,220.68 957.5,304.29 957.5,346.75 " fill="none" id="EVA2_8_CLASES_ANONIMAS-to-Override" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="#181818" points="957.5,352.75,961.5,343.75,957.5,347.75,953.5,343.75,957.5,352.75" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--SRC=[dP11IyGm48Nl-HK3NbfMS_0aUn2Axa6mNQ7WjSosOydIJ4eI2elutsqr6usx1pM7XBp9-rvcSEUynTP3Ew1pq1ejzM7UH-I3f0clcvjcAP5ha0qhZKu-aNM6KI2pyUYLOTZZX790xkLs8cjLH-8FmCrpiSXtZqMzgPkYsbOFPL4BnPxi2xRqEqffbbPiIUnmF-V_Fncal3tNqjU7qYnu5J2l5UX4plJdkORQMyLzleR9g4wy2O7fsCD40-SAsEYTZRuWuaZ3e3eJvH0Qp5d-uvv2Ba_yn_Sz-UhZQPOdYIjmiPAoZer4Vn7GvmYnTfB_ZN81IezMQMNlqHkNnL6z0m00]-->
+    </g>
+</svg>

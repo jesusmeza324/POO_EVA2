@@ -1,0 +1,23 @@
+@startuml
+abstract class com.mycompany.eva2_8_clases_anonimas.Persona
+annotation java.lang.Override
+class com.mycompany.eva2_8_clases_anonimas.EVA2_8_CLASES_ANONIMAS
+interface com.mycompany.eva2_8_clases_anonimas.MostrarMensaje
+com.mycompany.eva2_8_clases_anonimas.EVA2_8_CLASES_ANONIMAS ..> java.lang.Override
+interface MostrarMensaje {
+    + mostrarMensaje(mensaje: String): void
+}
+
+abstract class Persona {
+    - nombre: String
+    - apellido: String
+
+    + Persona()
+    + Persona(nombre: String, apellido: String)
+    + getNombre(): String
+    + setNombre(nombre: String): void
+    + getApellido(): String
+    + setApellido(apellido: String): void
+    # imprimirDatos(): void
+}
+@enduml
