@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="551px" preserveAspectRatio="none" style="width:1677px;height:551px;background:#FFFFFF;" version="1.1" viewBox="0 0 1677 551" width="1677px" zoomAndPan="magnify">
+    <defs/>
+    <g>
+        <!--cluster com-->
+        <g id="cluster_com">
+            <path d="M8.5,41.5 L38.5,41.5 A3.75,3.75 0 0 1 41,44 L48,65.1094 L334.5,65.1094 A2.5,2.5 0 0 1 337,67.6094 L337,541.5 A2.5,2.5 0 0 1 334.5,544 L8.5,544 A2.5,2.5 0 0 1 6,541.5 L6,44 A2.5,2.5 0 0 1 8.5,41.5 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="6" x2="48" y1="65.1094" y2="65.1094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="29" x="10" y="58.0332">com</text>
+        </g>
+        <!--cluster mycompany-->
+        <g id="cluster_mycompany">
+            <path d="M32.5,85.5 L114.5,85.5 A3.75,3.75 0 0 1 117,88 L124,109.1094 L310.5,109.1094 A2.5,2.5 0 0 1 313,111.6094 L313,517.5 A2.5,2.5 0 0 1 310.5,520 L32.5,520 A2.5,2.5 0 0 1 30,517.5 L30,88 A2.5,2.5 0 0 1 32.5,85.5 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="30" x2="124" y1="109.1094" y2="109.1094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="81" x="34" y="102.0332">mycompany</text>
+        </g>
+        <!--cluster eva2_11_has-->
+        <g id="cluster_eva2_11_has">
+            <path d="M56.5,129.5 L148.5,129.5 A3.75,3.75 0 0 1 151,132 L158,153.1094 L286.5,153.1094 A2.5,2.5 0 0 1 289,155.6094 L289,493.5 A2.5,2.5 0 0 1 286.5,496 L56.5,496 A2.5,2.5 0 0 1 54,493.5 L54,132 A2.5,2.5 0 0 1 56.5,129.5 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="54" x2="158" y1="153.1094" y2="153.1094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="91" x="58" y="146.0332">eva2_11_has</text>
+        </g>
+        <!--class Cliente-->
+        <g id="elem_Cliente">
+            <rect codeLine="1" fill="#F1F1F1" height="48" id="Cliente" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="76" x="70" y="165.5"/>
+            <ellipse cx="85" cy="181.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M87.7656,177.375 Q87.9219,177.1563 88.1094,177.0469 Q88.2969,176.9375 88.5156,176.9375 Q88.8906,176.9375 89.125,177.2031 Q89.3594,177.4531 89.3594,178.0625 L89.3594,179.5156 Q89.3594,180.125 89.125,180.3906 Q88.8906,180.6563 88.5156,180.6563 Q88.1719,180.6563 87.9688,180.4531 Q87.7656,180.2656 87.6563,179.75 Q87.6094,179.3906 87.4219,179.2031 Q87.0938,178.8281 86.4844,178.6094 Q85.875,178.3906 85.25,178.3906 Q84.4844,178.3906 83.8438,178.7188 Q83.2188,179.0469 82.7188,179.7969 Q82.2344,180.5469 82.2344,181.5781 L82.2344,182.6719 Q82.2344,183.9063 83.125,184.7344 Q84.0156,185.5469 85.6094,185.5469 Q86.5469,185.5469 87.2031,185.2969 Q87.5938,185.1406 88.0156,184.7031 Q88.2813,184.4375 88.4219,184.3594 Q88.5781,184.2813 88.7813,184.2813 Q89.1094,184.2813 89.3594,184.5469 Q89.625,184.7969 89.625,185.1406 Q89.625,185.4844 89.2813,185.8906 Q88.7813,186.4688 87.9844,186.7969 Q86.9063,187.25 85.6094,187.25 Q84.0938,187.25 82.8906,186.625 Q81.9063,186.125 81.2188,185.0625 Q80.5313,183.9844 80.5313,182.7031 L80.5313,181.5469 Q80.5313,180.2188 81.1406,179.0781 Q81.7656,177.9219 82.8594,177.3125 Q83.9531,176.6875 85.1875,176.6875 Q85.9219,176.6875 86.5625,176.8594 Q87.2188,177.0156 87.7656,177.375 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="44" x="99" y="187.2285">Cliente</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="71" x2="145" y1="197.5" y2="197.5"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="71" x2="145" y1="205.5" y2="205.5"/>
+        </g>
+        <!--class Direccion-->
+        <g id="elem_Direccion">
+            <rect codeLine="2" fill="#F1F1F1" height="48" id="Direccion" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="91" x="181.5" y="165.5"/>
+            <ellipse cx="196.5" cy="181.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M199.2656,177.375 Q199.4219,177.1563 199.6094,177.0469 Q199.7969,176.9375 200.0156,176.9375 Q200.3906,176.9375 200.625,177.2031 Q200.8594,177.4531 200.8594,178.0625 L200.8594,179.5156 Q200.8594,180.125 200.625,180.3906 Q200.3906,180.6563 200.0156,180.6563 Q199.6719,180.6563 199.4688,180.4531 Q199.2656,180.2656 199.1563,179.75 Q199.1094,179.3906 198.9219,179.2031 Q198.5938,178.8281 197.9844,178.6094 Q197.375,178.3906 196.75,178.3906 Q195.9844,178.3906 195.3438,178.7188 Q194.7188,179.0469 194.2188,179.7969 Q193.7344,180.5469 193.7344,181.5781 L193.7344,182.6719 Q193.7344,183.9063 194.625,184.7344 Q195.5156,185.5469 197.1094,185.5469 Q198.0469,185.5469 198.7031,185.2969 Q199.0938,185.1406 199.5156,184.7031 Q199.7813,184.4375 199.9219,184.3594 Q200.0781,184.2813 200.2813,184.2813 Q200.6094,184.2813 200.8594,184.5469 Q201.125,184.7969 201.125,185.1406 Q201.125,185.4844 200.7813,185.8906 Q200.2813,186.4688 199.4844,186.7969 Q198.4063,187.25 197.1094,187.25 Q195.5938,187.25 194.3906,186.625 Q193.4063,186.125 192.7188,185.0625 Q192.0313,183.9844 192.0313,182.7031 L192.0313,181.5469 Q192.0313,180.2188 192.6406,179.0781 Q193.2656,177.9219 194.3594,177.3125 Q195.4531,176.6875 196.6875,176.6875 Q197.4219,176.6875 198.0625,176.8594 Q198.7188,177.0156 199.2656,177.375 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="59" x="210.5" y="187.2285">Direccion</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="182.5" x2="271.5" y1="197.5" y2="197.5"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="182.5" x2="271.5" y1="205.5" y2="205.5"/>
+        </g>
+        <!--class EVA2_11_HAS-->
+        <g id="elem_EVA2_11_HAS">
+            <rect codeLine="3" fill="#F1F1F1" height="48" id="EVA2_11_HAS" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="126" x="70" y="432"/>
+            <ellipse cx="85" cy="448" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M87.7656,443.875 Q87.9219,443.6563 88.1094,443.5469 Q88.2969,443.4375 88.5156,443.4375 Q88.8906,443.4375 89.125,443.7031 Q89.3594,443.9531 89.3594,444.5625 L89.3594,446.0156 Q89.3594,446.625 89.125,446.8906 Q88.8906,447.1563 88.5156,447.1563 Q88.1719,447.1563 87.9688,446.9531 Q87.7656,446.7656 87.6563,446.25 Q87.6094,445.8906 87.4219,445.7031 Q87.0938,445.3281 86.4844,445.1094 Q85.875,444.8906 85.25,444.8906 Q84.4844,444.8906 83.8438,445.2188 Q83.2188,445.5469 82.7188,446.2969 Q82.2344,447.0469 82.2344,448.0781 L82.2344,449.1719 Q82.2344,450.4063 83.125,451.2344 Q84.0156,452.0469 85.6094,452.0469 Q86.5469,452.0469 87.2031,451.7969 Q87.5938,451.6406 88.0156,451.2031 Q88.2813,450.9375 88.4219,450.8594 Q88.5781,450.7813 88.7813,450.7813 Q89.1094,450.7813 89.3594,451.0469 Q89.625,451.2969 89.625,451.6406 Q89.625,451.9844 89.2813,452.3906 Q88.7813,452.9688 87.9844,453.2969 Q86.9063,453.75 85.6094,453.75 Q84.0938,453.75 82.8906,453.125 Q81.9063,452.625 81.2188,451.5625 Q80.5313,450.4844 80.5313,449.2031 L80.5313,448.0469 Q80.5313,446.7188 81.1406,445.5781 Q81.7656,444.4219 82.8594,443.8125 Q83.9531,443.1875 85.1875,443.1875 Q85.9219,443.1875 86.5625,443.3594 Q87.2188,443.5156 87.7656,443.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="94" x="99" y="453.7285">EVA2_11_HAS</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="71" x2="195" y1="464" y2="464"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="71" x2="195" y1="472" y2="472"/>
+        </g>
+        <!--class Cliente-->
+        <g id="elem_Cliente">
+            <rect codeLine="4" fill="#F1F1F1" height="364.9688" id="Cliente" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="793" x="353.5" y="7"/>
+            <ellipse cx="723.75" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M726.5156,18.875 Q726.6719,18.6563 726.8594,18.5469 Q727.0469,18.4375 727.2656,18.4375 Q727.6406,18.4375 727.875,18.7031 Q728.1094,18.9531 728.1094,19.5625 L728.1094,21.0156 Q728.1094,21.625 727.875,21.8906 Q727.6406,22.1563 727.2656,22.1563 Q726.9219,22.1563 726.7188,21.9531 Q726.5156,21.7656 726.4063,21.25 Q726.3594,20.8906 726.1719,20.7031 Q725.8438,20.3281 725.2344,20.1094 Q724.625,19.8906 724,19.8906 Q723.2344,19.8906 722.5938,20.2188 Q721.9688,20.5469 721.4688,21.2969 Q720.9844,22.0469 720.9844,23.0781 L720.9844,24.1719 Q720.9844,25.4063 721.875,26.2344 Q722.7656,27.0469 724.3594,27.0469 Q725.2969,27.0469 725.9531,26.7969 Q726.3438,26.6406 726.7656,26.2031 Q727.0313,25.9375 727.1719,25.8594 Q727.3281,25.7813 727.5313,25.7813 Q727.8594,25.7813 728.1094,26.0469 Q728.375,26.2969 728.375,26.6406 Q728.375,26.9844 728.0313,27.3906 Q727.5313,27.9688 726.7344,28.2969 Q725.6563,28.75 724.3594,28.75 Q722.8438,28.75 721.6406,28.125 Q720.6563,27.625 719.9688,26.5625 Q719.2813,25.4844 719.2813,24.2031 L719.2813,23.0469 Q719.2813,21.7188 719.8906,20.5781 Q720.5156,19.4219 721.6094,18.8125 Q722.7031,18.1875 723.9375,18.1875 Q724.6719,18.1875 725.3125,18.3594 Q725.9688,18.5156 726.5156,18.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="44" x="744.25" y="28.7285">Cliente</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="354.5" x2="1145.5" y1="39" y2="39"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="361.5" y="50.3047"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="373.5" y="57.5332">String nombre</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="361.5" y="67.9141"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="90" x="373.5" y="75.1426">String apellido</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="361.5" y="85.5234"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="57" x="373.5" y="92.752">String rfc</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="361.5" y="103.1328"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="373.5" y="110.3613">int edad</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="361.5" y="120.7422"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120" x="373.5" y="127.9707">Direccion direccion</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="354.5" x2="1145.5" y1="135.0469" y2="135.0469"/>
+            <ellipse cx="364.5" cy="149.3516" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="54" x="373.5" y="153.5801">Cliente()</text>
+            <ellipse cx="364.5" cy="166.9609" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="767" x="373.5" y="171.1895">Cliente(String nombre, String apellido, String rfc, int edad, String calle, int numero, String colonia, String cp, String ciudad)</text>
+            <ellipse cx="364.5" cy="184.5703" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120" x="373.5" y="188.7988">String getNombre()</text>
+            <ellipse cx="364.5" cy="202.1797" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="197" x="373.5" y="206.4082">void setNombre(String nombre)</text>
+            <ellipse cx="364.5" cy="219.7891" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="373.5" y="224.0176">String getApellido()</text>
+            <ellipse cx="364.5" cy="237.3984" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="199" x="373.5" y="241.627">void setApellido(String apellido)</text>
+            <ellipse cx="364.5" cy="255.0078" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="92" x="373.5" y="259.2363">String getRfc()</text>
+            <ellipse cx="364.5" cy="272.6172" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="137" x="373.5" y="276.8457">void setRfc(String rfc)</text>
+            <ellipse cx="364.5" cy="290.2266" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="82" x="373.5" y="294.4551">int getEdad()</text>
+            <ellipse cx="364.5" cy="307.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="143" x="373.5" y="312.0645">void setEdad(int edad)</text>
+            <ellipse cx="364.5" cy="325.4453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="152" x="373.5" y="329.6738">Direccion getDireccion()</text>
+            <ellipse cx="364.5" cy="343.0547" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="238" x="373.5" y="347.2832">void setDireccion(Direccion direccion)</text>
+            <ellipse cx="364.5" cy="360.6641" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="100" x="373.5" y="364.8926">String toString()</text>
+        </g>
+        <!--class Direccion-->
+        <g id="elem_Direccion">
+            <rect codeLine="24" fill="#F1F1F1" height="364.9688" id="Direccion" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="489" x="1181.5" y="7"/>
+            <ellipse cx="1392.25" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M1395.0156,18.875 Q1395.1719,18.6563 1395.3594,18.5469 Q1395.5469,18.4375 1395.7656,18.4375 Q1396.1406,18.4375 1396.375,18.7031 Q1396.6094,18.9531 1396.6094,19.5625 L1396.6094,21.0156 Q1396.6094,21.625 1396.375,21.8906 Q1396.1406,22.1563 1395.7656,22.1563 Q1395.4219,22.1563 1395.2188,21.9531 Q1395.0156,21.7656 1394.9063,21.25 Q1394.8594,20.8906 1394.6719,20.7031 Q1394.3438,20.3281 1393.7344,20.1094 Q1393.125,19.8906 1392.5,19.8906 Q1391.7344,19.8906 1391.0938,20.2188 Q1390.4688,20.5469 1389.9688,21.2969 Q1389.4844,22.0469 1389.4844,23.0781 L1389.4844,24.1719 Q1389.4844,25.4063 1390.375,26.2344 Q1391.2656,27.0469 1392.8594,27.0469 Q1393.7969,27.0469 1394.4531,26.7969 Q1394.8438,26.6406 1395.2656,26.2031 Q1395.5313,25.9375 1395.6719,25.8594 Q1395.8281,25.7813 1396.0313,25.7813 Q1396.3594,25.7813 1396.6094,26.0469 Q1396.875,26.2969 1396.875,26.6406 Q1396.875,26.9844 1396.5313,27.3906 Q1396.0313,27.9688 1395.2344,28.2969 Q1394.1563,28.75 1392.8594,28.75 Q1391.3438,28.75 1390.1406,28.125 Q1389.1563,27.625 1388.4688,26.5625 Q1387.7813,25.4844 1387.7813,24.2031 L1387.7813,23.0469 Q1387.7813,21.7188 1388.3906,20.5781 Q1389.0156,19.4219 1390.1094,18.8125 Q1391.2031,18.1875 1392.4375,18.1875 Q1393.1719,18.1875 1393.8125,18.3594 Q1394.4688,18.5156 1395.0156,18.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="59" x="1412.75" y="28.7285">Direccion</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1182.5" x2="1669.5" y1="39" y2="39"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1189.5" y="50.3047"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="70" x="1201.5" y="57.5332">String calle</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1189.5" y="67.9141"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="67" x="1201.5" y="75.1426">int numero</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1189.5" y="85.5234"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="86" x="1201.5" y="92.752">String colonia</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1189.5" y="103.1328"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="56" x="1201.5" y="110.3613">String cp</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1189.5" y="120.7422"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="1201.5" y="127.9707">String ciudad</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1182.5" x2="1669.5" y1="135.0469" y2="135.0469"/>
+            <ellipse cx="1192.5" cy="149.3516" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="69" x="1201.5" y="153.5801">Direccion()</text>
+            <ellipse cx="1192.5" cy="166.9609" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="463" x="1201.5" y="171.1895">Direccion(String calle, int numero, String colonia, String cp, String ciudad)</text>
+            <ellipse cx="1192.5" cy="184.5703" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="103" x="1201.5" y="188.7988">String getCalle()</text>
+            <ellipse cx="1192.5" cy="202.1797" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="161" x="1201.5" y="206.4082">void setCalle(String calle)</text>
+            <ellipse cx="1192.5" cy="219.7891" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="1201.5" y="224.0176">int getNumero()</text>
+            <ellipse cx="1192.5" cy="237.3984" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="175" x="1201.5" y="241.627">void setNumero(int numero)</text>
+            <ellipse cx="1192.5" cy="255.0078" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="119" x="1201.5" y="259.2363">String getColonia()</text>
+            <ellipse cx="1192.5" cy="272.6172" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="193" x="1201.5" y="276.8457">void setColonia(String colonia)</text>
+            <ellipse cx="1192.5" cy="290.2266" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="1201.5" y="294.4551">String getCp()</text>
+            <ellipse cx="1192.5" cy="307.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="133" x="1201.5" y="312.0645">void setCp(String cp)</text>
+            <ellipse cx="1192.5" cy="325.4453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="116" x="1201.5" y="329.6738">String getCiudad()</text>
+            <ellipse cx="1192.5" cy="343.0547" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="187" x="1201.5" y="347.2832">void setCiudad(String ciudad)</text>
+            <ellipse cx="1192.5" cy="360.6641" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="100" x="1201.5" y="364.8926">String toString()</text>
+        </g>
+        <!--SRC=[jL9BRiCW5Dpx52nJrRMKti1A8tMLHIDr6r5CKYGCo7OYHLNlNXimO6Sih-g51JFl3VC-JDAs9KpNHNtl_uQgUy5lzFMqtPw-QLlifE2gunbRYNiJ3MTCQBKQkVyixVczF6R41Vj7o4z6_FT2ZbqZr8KeNNyr_16dXaifAlt8D6UMW49rX5UqIg1WbLJ1zCW-ZrusJm2RUChdLlB4GHuU3YYZKdA7gslDcnZFjDHAq7WtyIYklKRgnHCNtXsiZOdHcnOLQGCryOj5IcyUoWHoLYcM-ZWpg3BWiJDfnD2BFd7VbmWpBJ4sCWs88-pJmmLgH1RC7HJIQNVmOhz-dsCoM58xsjdIkHc3M3TiG1Y0sV6ZmZUm7Pl_shNT80ZxwvZqNJ3XWpM1LzLHqUg20USRM_3SjCG57OCbJCWs2ucsEpZPKMjjd6_M7m00]-->
+    </g>
+</svg>

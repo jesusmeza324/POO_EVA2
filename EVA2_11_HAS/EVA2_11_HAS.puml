@@ -1,0 +1,45 @@
+@startuml
+class com.mycompany.eva2_11_has.Cliente
+class com.mycompany.eva2_11_has.Direccion
+class com.mycompany.eva2_11_has.EVA2_11_HAS
+ class Cliente {
+        - String nombre
+        - String apellido
+        - String rfc
+        - int edad
+        - Direccion direccion
+        + Cliente()
+        + Cliente(String nombre, String apellido, String rfc, int edad, String calle, int numero, String colonia, String cp, String ciudad)
+        + String getNombre()
+        + void setNombre(String nombre)
+        + String getApellido()
+        + void setApellido(String apellido)
+        + String getRfc()
+        + void setRfc(String rfc)
+        + int getEdad()
+        + void setEdad(int edad)
+        + Direccion getDireccion()
+        + void setDireccion(Direccion direccion)
+        + String toString()
+    }
+class Direccion {
+        - String calle
+        - int numero
+        - String colonia
+        - String cp
+        - String ciudad
+        + Direccion()
+        + Direccion(String calle, int numero, String colonia, String cp, String ciudad)
+        + String getCalle()
+        + void setCalle(String calle)
+        + int getNumero()
+        + void setNumero(int numero)
+        + String getColonia()
+        + void setColonia(String colonia)
+        + String getCp()
+        + void setCp(String cp)
+        + String getCiudad()
+        + void setCiudad(String ciudad)
+        + String toString()
+    }
+@enduml
