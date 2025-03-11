@@ -1,0 +1,48 @@
+@startuml
+annotation java.lang.Override
+class com.mycompany.eva2_12_polimorfismo_int.Cliente
+class com.mycompany.eva2_12_polimorfismo_int.EVA2_12_POLIMORFISMO_INT
+class com.mycompany.eva2_12_polimorfismo_int.Empleado
+class com.mycompany.eva2_12_polimorfismo_int.Persona
+interface com.mycompany.eva2_12_polimorfismo_int.MostrarDatos
+com.mycompany.eva2_12_polimorfismo_int.Cliente ..> java.lang.Override
+com.mycompany.eva2_12_polimorfismo_int.Cliente --|> com.mycompany.eva2_12_polimorfismo_int.Persona
+com.mycompany.eva2_12_polimorfismo_int.Empleado ..> java.lang.Override
+com.mycompany.eva2_12_polimorfismo_int.Empleado --|> com.mycompany.eva2_12_polimorfismo_int.Persona
+com.mycompany.eva2_12_polimorfismo_int.Persona ..> java.lang.Override
+com.mycompany.eva2_12_polimorfismo_int.Persona --|> com.mycompany.eva2_12_polimorfismo_int.MostrarDatos
+interface MostrarDatos {
+        + imprimirDatos()
+    }
+
+    class Persona {
+        - String nombre
+        - String apellido
+        - int edad
+        + Persona()
+        + Persona(String nombre, String apellido, int edad)
+        + String getNombre()
+        + void setNombre(String nombre)
+        + String getApellido()
+        + void setApellido(String apellido)
+        + int getEdad()
+        + void setEdad(int edad)
+        + imprimirDatos()
+    }
+class Empleado {
+        - String clave
+        + Empleado()
+        + Empleado(String clave, String nombre, String apellido, int edad)
+        + String getClave()
+        + void setClave(String clave)
+        + void imprimirDatos()
+    }
+  class Cliente {
+        - String rfc
+        + Cliente()
+        + Cliente(String rfc, String nombre, String apellido, int edad)
+        + String getRfc()
+        + void setRfc(String rfc)
+        + void imprimirDatos()
+    }
+@enduml
