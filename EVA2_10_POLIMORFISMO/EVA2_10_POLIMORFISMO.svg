@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="693px" preserveAspectRatio="none" style="width:1594px;height:693px;background:#FFFFFF;" version="1.1" viewBox="0 0 1594 693" width="1594px" zoomAndPan="magnify">
+    <defs/>
+    <g>
+        <!--cluster java-->
+        <g id="cluster_java">
+            <path d="M1422,494 L1452,494 A3.75,3.75 0 0 1 1454.5,496.5 L1461.5,517.6094 L1585,517.6094 A2.5,2.5 0 0 1 1587.5,520.1094 L1587.5,659.5 A2.5,2.5 0 0 1 1585,662 L1422,662 A2.5,2.5 0 0 1 1419.5,659.5 L1419.5,496.5 A2.5,2.5 0 0 1 1422,494 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="1419.5" x2="1461.5" y1="517.6094" y2="517.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="29" x="1423.5" y="510.5332">java</text>
+        </g>
+        <!--cluster lang-->
+        <g id="cluster_lang">
+            <path d="M1446,538 L1477,538 A3.75,3.75 0 0 1 1479.5,540.5 L1486.5,561.6094 L1561,561.6094 A2.5,2.5 0 0 1 1563.5,564.1094 L1563.5,635.5 A2.5,2.5 0 0 1 1561,638 L1446,638 A2.5,2.5 0 0 1 1443.5,635.5 L1443.5,540.5 A2.5,2.5 0 0 1 1446,538 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="1443.5" x2="1486.5" y1="561.6094" y2="561.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="30" x="1447.5" y="554.5332">lang</text>
+        </g>
+        <!--cluster com-->
+        <g id="cluster_com">
+            <path d="M823,94.5 L853,94.5 A3.75,3.75 0 0 1 855.5,97 L862.5,118.1094 L1393,118.1094 A2.5,2.5 0 0 1 1395.5,120.6094 L1395.5,683.5 A2.5,2.5 0 0 1 1393,686 L823,686 A2.5,2.5 0 0 1 820.5,683.5 L820.5,97 A2.5,2.5 0 0 1 823,94.5 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="820.5" x2="862.5" y1="118.1094" y2="118.1094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="29" x="824.5" y="111.0332">com</text>
+        </g>
+        <!--cluster mycompany-->
+        <g id="cluster_mycompany">
+            <path d="M847,138.5 L929,138.5 A3.75,3.75 0 0 1 931.5,141 L938.5,162.1094 L1369,162.1094 A2.5,2.5 0 0 1 1371.5,164.6094 L1371.5,659.5 A2.5,2.5 0 0 1 1369,662 L847,662 A2.5,2.5 0 0 1 844.5,659.5 L844.5,141 A2.5,2.5 0 0 1 847,138.5 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="844.5" x2="938.5" y1="162.1094" y2="162.1094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="81" x="848.5" y="155.0332">mycompany</text>
+        </g>
+        <!--cluster eva2_10_polimorfismo-->
+        <g id="cluster_eva2_10_polimorfismo">
+            <path d="M871,182.5 L1029,182.5 A3.75,3.75 0 0 1 1031.5,185 L1038.5,206.1094 L1345,206.1094 A2.5,2.5 0 0 1 1347.5,208.6094 L1347.5,635.5 A2.5,2.5 0 0 1 1345,638 L871,638 A2.5,2.5 0 0 1 868.5,635.5 L868.5,185 A2.5,2.5 0 0 1 871,182.5 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="868.5" x2="1038.5" y1="206.1094" y2="206.1094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="157" x="872.5" y="199.0332">eva2_10_polimorfismo</text>
+        </g>
+        <!--class Override-->
+        <g id="elem_Override">
+            <rect codeLine="1" fill="#F1F1F1" height="48" id="Override" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="87" x="1460" y="574"/>
+            <ellipse cx="1475" cy="590" fill="#E3664A" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M1477.3438,587.5781 L1477.3438,587.0625 Q1477.3438,586.2344 1476.8594,585.7344 Q1476.3906,585.2344 1475.6406,585.2344 Q1475.0469,585.2344 1474.5156,585.6406 Q1473.9844,586.0313 1473.7188,586.6563 Q1473.25,587.75 1473.25,588.8594 L1473.25,591.375 Q1473.25,593.2969 1474.1094,594.4219 Q1474.6719,595.1719 1475.6875,595.1719 Q1476.2344,595.1719 1476.6719,595.0313 Q1477.125,594.8906 1477.375,594.6406 Q1477.625,594.3906 1477.8438,594.3906 Q1478.1094,594.3906 1478.2969,594.5781 Q1478.4844,594.7656 1478.4844,595.0313 Q1478.4844,595.4531 1477.9063,595.8438 Q1477.0781,596.4063 1475.6406,596.4063 Q1474.5469,596.4063 1473.8281,595.9063 Q1472.9063,595.2656 1472.4531,594 Q1472,592.7344 1472,591.5 L1472,588.7656 Q1472,586.7813 1472.9844,585.3906 Q1473.9688,583.9844 1475.6094,583.9844 Q1476.3594,583.9844 1477,584.2969 Q1477.6563,584.5938 1478.125,585.3594 Q1478.5938,586.125 1478.5938,587.0625 L1478.5938,591.5938 Q1478.9531,591.7656 1478.9531,592.1563 Q1478.9531,592.4375 1478.75,592.625 Q1478.5625,592.7969 1478.0938,592.7969 L1477.3438,592.7969 L1477.3438,592.75 Q1476.9531,592.8125 1476.7656,592.8125 Q1475.7656,592.8125 1475.0156,592.0781 Q1474.2813,591.3281 1474.2813,590.3281 Q1474.2813,589.2656 1475.0938,588.4688 Q1475.9219,587.6719 1477.3438,587.5781 Z M1477.3438,588.8594 Q1476.4531,588.9531 1475.9844,589.375 Q1475.5313,589.7969 1475.5313,590.3438 Q1475.5313,590.8281 1475.9063,591.1719 Q1476.2969,591.5156 1476.9375,591.5156 Q1477.0625,591.5156 1477.3438,591.5 L1477.3438,588.8594 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="1489" y="595.7285">Override</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1461" x2="1546" y1="606" y2="606"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1461" x2="1546" y1="614" y2="614"/>
+        </g>
+        <!--class Cliente-->
+        <g id="elem_Cliente">
+            <rect codeLine="2" fill="#F1F1F1" height="48" id="Cliente" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="76" x="1255.5" y="218.5"/>
+            <ellipse cx="1270.5" cy="234.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M1273.2656,230.375 Q1273.4219,230.1563 1273.6094,230.0469 Q1273.7969,229.9375 1274.0156,229.9375 Q1274.3906,229.9375 1274.625,230.2031 Q1274.8594,230.4531 1274.8594,231.0625 L1274.8594,232.5156 Q1274.8594,233.125 1274.625,233.3906 Q1274.3906,233.6563 1274.0156,233.6563 Q1273.6719,233.6563 1273.4688,233.4531 Q1273.2656,233.2656 1273.1563,232.75 Q1273.1094,232.3906 1272.9219,232.2031 Q1272.5938,231.8281 1271.9844,231.6094 Q1271.375,231.3906 1270.75,231.3906 Q1269.9844,231.3906 1269.3438,231.7188 Q1268.7188,232.0469 1268.2188,232.7969 Q1267.7344,233.5469 1267.7344,234.5781 L1267.7344,235.6719 Q1267.7344,236.9063 1268.625,237.7344 Q1269.5156,238.5469 1271.1094,238.5469 Q1272.0469,238.5469 1272.7031,238.2969 Q1273.0938,238.1406 1273.5156,237.7031 Q1273.7813,237.4375 1273.9219,237.3594 Q1274.0781,237.2813 1274.2813,237.2813 Q1274.6094,237.2813 1274.8594,237.5469 Q1275.125,237.7969 1275.125,238.1406 Q1275.125,238.4844 1274.7813,238.8906 Q1274.2813,239.4688 1273.4844,239.7969 Q1272.4063,240.25 1271.1094,240.25 Q1269.5938,240.25 1268.3906,239.625 Q1267.4063,239.125 1266.7188,238.0625 Q1266.0313,236.9844 1266.0313,235.7031 L1266.0313,234.5469 Q1266.0313,233.2188 1266.6406,232.0781 Q1267.2656,230.9219 1268.3594,230.3125 Q1269.4531,229.6875 1270.6875,229.6875 Q1271.4219,229.6875 1272.0625,229.8594 Q1272.7188,230.0156 1273.2656,230.375 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="44" x="1284.5" y="240.2285">Cliente</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1256.5" x2="1330.5" y1="250.5" y2="250.5"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1256.5" x2="1330.5" y1="258.5" y2="258.5"/>
+        </g>
+        <!--class EVA2_10_POLIMORFISMO-->
+        <g id="elem_EVA2_10_POLIMORFISMO">
+            <rect codeLine="3" fill="#F1F1F1" height="48" id="EVA2_10_POLIMORFISMO" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="205" x="1015" y="218.5"/>
+            <ellipse cx="1030" cy="234.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M1032.7656,230.375 Q1032.9219,230.1563 1033.1094,230.0469 Q1033.2969,229.9375 1033.5156,229.9375 Q1033.8906,229.9375 1034.125,230.2031 Q1034.3594,230.4531 1034.3594,231.0625 L1034.3594,232.5156 Q1034.3594,233.125 1034.125,233.3906 Q1033.8906,233.6563 1033.5156,233.6563 Q1033.1719,233.6563 1032.9688,233.4531 Q1032.7656,233.2656 1032.6563,232.75 Q1032.6094,232.3906 1032.4219,232.2031 Q1032.0938,231.8281 1031.4844,231.6094 Q1030.875,231.3906 1030.25,231.3906 Q1029.4844,231.3906 1028.8438,231.7188 Q1028.2188,232.0469 1027.7188,232.7969 Q1027.2344,233.5469 1027.2344,234.5781 L1027.2344,235.6719 Q1027.2344,236.9063 1028.125,237.7344 Q1029.0156,238.5469 1030.6094,238.5469 Q1031.5469,238.5469 1032.2031,238.2969 Q1032.5938,238.1406 1033.0156,237.7031 Q1033.2813,237.4375 1033.4219,237.3594 Q1033.5781,237.2813 1033.7813,237.2813 Q1034.1094,237.2813 1034.3594,237.5469 Q1034.625,237.7969 1034.625,238.1406 Q1034.625,238.4844 1034.2813,238.8906 Q1033.7813,239.4688 1032.9844,239.7969 Q1031.9063,240.25 1030.6094,240.25 Q1029.0938,240.25 1027.8906,239.625 Q1026.9063,239.125 1026.2188,238.0625 Q1025.5313,236.9844 1025.5313,235.7031 L1025.5313,234.5469 Q1025.5313,233.2188 1026.1406,232.0781 Q1026.7656,230.9219 1027.8594,230.3125 Q1028.9531,229.6875 1030.1875,229.6875 Q1030.9219,229.6875 1031.5625,229.8594 Q1032.2188,230.0156 1032.7656,230.375 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="173" x="1044" y="240.2285">EVA2_10_POLIMORFISMO</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1016" x2="1219" y1="250.5" y2="250.5"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1016" x2="1219" y1="258.5" y2="258.5"/>
+        </g>
+        <!--class Empleado-->
+        <g id="elem_Empleado">
+            <rect codeLine="4" fill="#F1F1F1" height="48" id="Empleado" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="95" x="885" y="218.5"/>
+            <ellipse cx="900" cy="234.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M902.7656,230.375 Q902.9219,230.1563 903.1094,230.0469 Q903.2969,229.9375 903.5156,229.9375 Q903.8906,229.9375 904.125,230.2031 Q904.3594,230.4531 904.3594,231.0625 L904.3594,232.5156 Q904.3594,233.125 904.125,233.3906 Q903.8906,233.6563 903.5156,233.6563 Q903.1719,233.6563 902.9688,233.4531 Q902.7656,233.2656 902.6563,232.75 Q902.6094,232.3906 902.4219,232.2031 Q902.0938,231.8281 901.4844,231.6094 Q900.875,231.3906 900.25,231.3906 Q899.4844,231.3906 898.8438,231.7188 Q898.2188,232.0469 897.7188,232.7969 Q897.2344,233.5469 897.2344,234.5781 L897.2344,235.6719 Q897.2344,236.9063 898.125,237.7344 Q899.0156,238.5469 900.6094,238.5469 Q901.5469,238.5469 902.2031,238.2969 Q902.5938,238.1406 903.0156,237.7031 Q903.2813,237.4375 903.4219,237.3594 Q903.5781,237.2813 903.7813,237.2813 Q904.1094,237.2813 904.3594,237.5469 Q904.625,237.7969 904.625,238.1406 Q904.625,238.4844 904.2813,238.8906 Q903.7813,239.4688 902.9844,239.7969 Q901.9063,240.25 900.6094,240.25 Q899.0938,240.25 897.8906,239.625 Q896.9063,239.125 896.2188,238.0625 Q895.5313,236.9844 895.5313,235.7031 L895.5313,234.5469 Q895.5313,233.2188 896.1406,232.0781 Q896.7656,230.9219 897.8594,230.3125 Q898.9531,229.6875 900.1875,229.6875 Q900.9219,229.6875 901.5625,229.8594 Q902.2188,230.0156 902.7656,230.375 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="63" x="914" y="240.2285">Empleado</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="886" x2="979" y1="250.5" y2="250.5"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="886" x2="979" y1="258.5" y2="258.5"/>
+        </g>
+        <!--class Persona-->
+        <g id="elem_Persona">
+            <rect codeLine="5" fill="#F1F1F1" height="48" id="Persona" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="85" x="1068" y="574"/>
+            <ellipse cx="1083" cy="590" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M1085.7656,585.875 Q1085.9219,585.6563 1086.1094,585.5469 Q1086.2969,585.4375 1086.5156,585.4375 Q1086.8906,585.4375 1087.125,585.7031 Q1087.3594,585.9531 1087.3594,586.5625 L1087.3594,588.0156 Q1087.3594,588.625 1087.125,588.8906 Q1086.8906,589.1563 1086.5156,589.1563 Q1086.1719,589.1563 1085.9688,588.9531 Q1085.7656,588.7656 1085.6563,588.25 Q1085.6094,587.8906 1085.4219,587.7031 Q1085.0938,587.3281 1084.4844,587.1094 Q1083.875,586.8906 1083.25,586.8906 Q1082.4844,586.8906 1081.8438,587.2188 Q1081.2188,587.5469 1080.7188,588.2969 Q1080.2344,589.0469 1080.2344,590.0781 L1080.2344,591.1719 Q1080.2344,592.4063 1081.125,593.2344 Q1082.0156,594.0469 1083.6094,594.0469 Q1084.5469,594.0469 1085.2031,593.7969 Q1085.5938,593.6406 1086.0156,593.2031 Q1086.2813,592.9375 1086.4219,592.8594 Q1086.5781,592.7813 1086.7813,592.7813 Q1087.1094,592.7813 1087.3594,593.0469 Q1087.625,593.2969 1087.625,593.6406 Q1087.625,593.9844 1087.2813,594.3906 Q1086.7813,594.9688 1085.9844,595.2969 Q1084.9063,595.75 1083.6094,595.75 Q1082.0938,595.75 1080.8906,595.125 Q1079.9063,594.625 1079.2188,593.5625 Q1078.5313,592.4844 1078.5313,591.2031 L1078.5313,590.0469 Q1078.5313,588.7188 1079.1406,587.5781 Q1079.7656,586.4219 1080.8594,585.8125 Q1081.9531,585.1875 1083.1875,585.1875 Q1083.9219,585.1875 1084.5625,585.3594 Q1085.2188,585.5156 1085.7656,585.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="53" x="1097" y="595.7285">Persona</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1069" x2="1152" y1="606" y2="606"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1069" x2="1152" y1="614" y2="614"/>
+        </g>
+        <!--class Persona-->
+        <g id="elem_Persona">
+            <rect codeLine="32" fill="#F1F1F1" height="470.625" id="Persona" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="335" x="7" y="7"/>
+            <ellipse cx="143.75" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M146.5156,18.875 Q146.6719,18.6563 146.8594,18.5469 Q147.0469,18.4375 147.2656,18.4375 Q147.6406,18.4375 147.875,18.7031 Q148.1094,18.9531 148.1094,19.5625 L148.1094,21.0156 Q148.1094,21.625 147.875,21.8906 Q147.6406,22.1563 147.2656,22.1563 Q146.9219,22.1563 146.7188,21.9531 Q146.5156,21.7656 146.4063,21.25 Q146.3594,20.8906 146.1719,20.7031 Q145.8438,20.3281 145.2344,20.1094 Q144.625,19.8906 144,19.8906 Q143.2344,19.8906 142.5938,20.2188 Q141.9688,20.5469 141.4688,21.2969 Q140.9844,22.0469 140.9844,23.0781 L140.9844,24.1719 Q140.9844,25.4063 141.875,26.2344 Q142.7656,27.0469 144.3594,27.0469 Q145.2969,27.0469 145.9531,26.7969 Q146.3438,26.6406 146.7656,26.2031 Q147.0313,25.9375 147.1719,25.8594 Q147.3281,25.7813 147.5313,25.7813 Q147.8594,25.7813 148.1094,26.0469 Q148.375,26.2969 148.375,26.6406 Q148.375,26.9844 148.0313,27.3906 Q147.5313,27.9688 146.7344,28.2969 Q145.6563,28.75 144.3594,28.75 Q142.8438,28.75 141.6406,28.125 Q140.6563,27.625 139.9688,26.5625 Q139.2813,25.4844 139.2813,24.2031 L139.2813,23.0469 Q139.2813,21.7188 139.8906,20.5781 Q140.5156,19.4219 141.6094,18.8125 Q142.7031,18.1875 143.9375,18.1875 Q144.6719,18.1875 145.3125,18.3594 Q145.9688,18.5156 146.5156,18.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="53" x="164.25" y="28.7285">Persona</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="341" y1="39" y2="39"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="50.3047"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="27" y="57.5332">String nombre</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="67.9141"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="90" x="27" y="75.1426">String apellido</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="85.5234"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="27" y="92.752">int edad</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="103.1328"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="27" y="110.3613">String nombre</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="120.7422"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="90" x="27" y="127.9707">String apellido</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="138.3516"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="27" y="145.5801">int edad</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="341" y1="152.6563" y2="152.6563"/>
+            <ellipse cx="18" cy="166.9609" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="63" x="27" y="171.1895">Persona()</text>
+            <ellipse cx="18" cy="184.5703" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="309" x="27" y="188.7988">Persona(String nombre, String apellido, int edad)</text>
+            <ellipse cx="18" cy="202.1797" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120" x="27" y="206.4082">String getNombre()</text>
+            <ellipse cx="18" cy="219.7891" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="197" x="27" y="224.0176">void setNombre(String nombre)</text>
+            <ellipse cx="18" cy="237.3984" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="27" y="241.627">String getApellido()</text>
+            <ellipse cx="18" cy="255.0078" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="199" x="27" y="259.2363">void setApellido(String apellido)</text>
+            <ellipse cx="18" cy="272.6172" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="82" x="27" y="276.8457">int getEdad()</text>
+            <ellipse cx="18" cy="290.2266" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="143" x="27" y="294.4551">void setEdad(int edad)</text>
+            <ellipse cx="18" cy="307.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="126" x="27" y="312.0645">void imprimirDatos()</text>
+            <ellipse cx="18" cy="325.4453" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="63" x="27" y="329.6738">Persona()</text>
+            <ellipse cx="18" cy="343.0547" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="309" x="27" y="347.2832">Persona(String nombre, String apellido, int edad)</text>
+            <ellipse cx="18" cy="360.6641" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120" x="27" y="364.8926">String getNombre()</text>
+            <ellipse cx="18" cy="378.2734" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="197" x="27" y="382.502">void setNombre(String nombre)</text>
+            <ellipse cx="18" cy="395.8828" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="27" y="400.1113">String getApellido()</text>
+            <ellipse cx="18" cy="413.4922" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="199" x="27" y="417.7207">void setApellido(String apellido)</text>
+            <ellipse cx="18" cy="431.1016" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="82" x="27" y="435.3301">int getEdad()</text>
+            <ellipse cx="18" cy="448.7109" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="143" x="27" y="452.9395">void setEdad(int edad)</text>
+            <ellipse cx="18" cy="466.3203" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="126" x="27" y="470.5488">void imprimirDatos()</text>
+        </g>
+        <!--class Empleado-->
+        <g id="elem_Empleado">
+            <rect codeLine="24" fill="#F1F1F1" height="153.6563" id="Empleado" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="427" x="377" y="165.5"/>
+            <ellipse cx="554.75" cy="181.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M557.5156,177.375 Q557.6719,177.1563 557.8594,177.0469 Q558.0469,176.9375 558.2656,176.9375 Q558.6406,176.9375 558.875,177.2031 Q559.1094,177.4531 559.1094,178.0625 L559.1094,179.5156 Q559.1094,180.125 558.875,180.3906 Q558.6406,180.6563 558.2656,180.6563 Q557.9219,180.6563 557.7188,180.4531 Q557.5156,180.2656 557.4063,179.75 Q557.3594,179.3906 557.1719,179.2031 Q556.8438,178.8281 556.2344,178.6094 Q555.625,178.3906 555,178.3906 Q554.2344,178.3906 553.5938,178.7188 Q552.9688,179.0469 552.4688,179.7969 Q551.9844,180.5469 551.9844,181.5781 L551.9844,182.6719 Q551.9844,183.9063 552.875,184.7344 Q553.7656,185.5469 555.3594,185.5469 Q556.2969,185.5469 556.9531,185.2969 Q557.3438,185.1406 557.7656,184.7031 Q558.0313,184.4375 558.1719,184.3594 Q558.3281,184.2813 558.5313,184.2813 Q558.8594,184.2813 559.1094,184.5469 Q559.375,184.7969 559.375,185.1406 Q559.375,185.4844 559.0313,185.8906 Q558.5313,186.4688 557.7344,186.7969 Q556.6563,187.25 555.3594,187.25 Q553.8438,187.25 552.6406,186.625 Q551.6563,186.125 550.9688,185.0625 Q550.2813,183.9844 550.2813,182.7031 L550.2813,181.5469 Q550.2813,180.2188 550.8906,179.0781 Q551.5156,177.9219 552.6094,177.3125 Q553.7031,176.6875 554.9375,176.6875 Q555.6719,176.6875 556.3125,176.8594 Q556.9688,177.0156 557.5156,177.375 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="63" x="575.25" y="187.2285">Empleado</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="378" x2="803" y1="197.5" y2="197.5"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="385" y="208.8047"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="397" y="216.0332">String clave</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="378" x2="803" y1="223.1094" y2="223.1094"/>
+            <ellipse cx="388" cy="237.4141" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="73" x="397" y="241.6426">Empleado()</text>
+            <ellipse cx="388" cy="255.0234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="401" x="397" y="259.252">Empleado(String clave, String nombre, String apellido, int edad)</text>
+            <ellipse cx="388" cy="272.6328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="397" y="276.8613">String getClave()</text>
+            <ellipse cx="388" cy="290.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="169" x="397" y="294.4707">void setClave(String clave)</text>
+            <ellipse cx="388" cy="307.8516" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="126" x="397" y="312.0801">void imprimirDatos()</text>
+        </g>
+        <!--link Cliente to Override-->
+        <g id="link_Cliente_Override">
+            <path codeLine="6" d="M1307.28,266.69 C1345.33,330.75 1448.4955,504.4116 1486.6055,568.5616 " fill="none" id="Cliente-to-Override" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="#181818" points="1489.67,573.72,1488.5122,563.9394,1487.1163,569.4213,1481.6344,568.0254,1489.67,573.72" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--link Cliente to Persona-->
+        <g id="link_Cliente_Persona">
+            <path codeLine="7" d="M1292.34,266.77 C1289.24,310.84 1277.97,408.32 1237.5,478 C1214.36,517.85 1188.2032,541.7619 1159.1232,563.2219 " fill="none" id="Cliente-to-Persona" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="1144.64,573.91,1162.6859,568.0496,1155.5605,558.3941,1144.64,573.91" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--link Empleado to Override-->
+        <g id="link_Empleado_Override">
+            <path codeLine="8" d="M930.82,266.61 C928.73,315 931.67,426.74 997.5,478 C1012.85,489.95 1329.04,479.87 1347.5,486 C1401.13,503.81 1447.9721,542.7753 1476.3221,569.7353 " fill="none" id="Empleado-to-Override" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="#181818" points="1480.67,573.87,1476.9046,564.7693,1477.0468,570.4244,1471.3917,570.5665,1480.67,573.87" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--link Empleado to Persona-->
+        <g id="link_Empleado_Persona">
+            <path codeLine="9" d="M935.12,266.56 C940.88,310.29 957.45,407.22 997.5,478 C1019.25,516.43 1042.4309,540.227 1068.1109,562.267 " fill="none" id="Empleado-to-Persona" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="1081.77,573.99,1072.0186,557.714,1064.2032,566.82,1081.77,573.99" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--SRC=[xPEnJiCm48RtFeL74Aa5F42bgXIf4YKLbLYhep7H8TiNsLQa2dXtd3GnIV6Gg0mCUCZmt_sV_xCTq9eSE2JDtg04Ba7dF2s5CPY9oLw2jMnFYgk3_nQW3roKSBkxkTuL956HUKMhY2ya2kr669RFyrhSf0-hTVfqlzgkqn5kLKW16GrtR8Inf64oV1R6-Inw9iC9q-d7x9V3jPEVaIuWniPZVXqFl57OUwrLQygspg3EcIRrOiHF7GeX9Veh-wwWTanaa0NfgWLVN4QqtWR9AJS9kAwtQSg5UwnjFN19c34RIZr-739lDejYGl4aMRUtokWvInypogWBiK7g1bI5GONc3XpPnl_P_0FXLYDtuZjAqO6rlRq8GUoQ4dRUgIygI7JIOwMxry1n_v_Wdtk2Nm00]-->
+    </g>
+</svg>

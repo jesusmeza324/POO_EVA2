@@ -1,0 +1,47 @@
+@startuml
+annotation java.lang.Override
+class com.mycompany.eva2_10_polimorfismo.Cliente
+class com.mycompany.eva2_10_polimorfismo.EVA2_10_POLIMORFISMO
+class com.mycompany.eva2_10_polimorfismo.Empleado
+class com.mycompany.eva2_10_polimorfismo.Persona
+com.mycompany.eva2_10_polimorfismo.Cliente ..> java.lang.Override
+com.mycompany.eva2_10_polimorfismo.Cliente --|> com.mycompany.eva2_10_polimorfismo.Persona
+com.mycompany.eva2_10_polimorfismo.Empleado ..> java.lang.Override
+com.mycompany.eva2_10_polimorfismo.Empleado --|> com.mycompany.eva2_10_polimorfismo.Persona
+    class Persona {
+        - String nombre
+        - String apellido
+        - int edad
+        + Persona()
+        + Persona(String nombre, String apellido, int edad)
+        + String getNombre()
+        + void setNombre(String nombre)
+        + String getApellido()
+        + void setApellido(String apellido)
+        + int getEdad()
+        + void setEdad(int edad)
+        + void imprimirDatos()
+    }
+class Empleado {
+        - String clave
+        + Empleado()
+        + Empleado(String clave, String nombre, String apellido, int edad)
+        + String getClave()
+        + void setClave(String clave)
+        + void imprimirDatos()
+    }
+ class Persona {
+        - String nombre
+        - String apellido
+        - int edad
+        + Persona()
+        + Persona(String nombre, String apellido, int edad)
+        + String getNombre()
+        + void setNombre(String nombre)
+        + String getApellido()
+        + void setApellido(String apellido)
+        + int getEdad()
+        + void setEdad(int edad)
+        + void imprimirDatos()
+    }
+@enduml
