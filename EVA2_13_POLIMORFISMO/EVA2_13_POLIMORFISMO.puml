@@ -1,0 +1,34 @@
+@startuml
+class com.mycompany.eva2_13_polimorfismo.EVA2_13_POLIMORFISMO
+class Animal {
+    +Animal()
+    +respiraOxigeno(): void
+}
+
+class Mamifero extends Animal {
+    +Mamifero()
+    +tienePelo(): void
+    +tieneSangreCaliente(): void
+}
+
+class Reptil extends Animal {
+    +Reptil()
+    +tieneSangreFria(): void
+}
+
+class GatoDomestico extends Mamifero {
+    +GatoDomestico()
+    +esMascota(): void
+    +tieneGarrasRetractiles(): void
+}
+
+class Serpiente extends Reptil {
+    +Serpiente()
+    +seArrastra(): void
+}
+
+Animal <|-- Mamifero
+Animal <|-- Reptil
+Mamifero <|-- GatoDomestico
+Reptil <|-- Serpiente
+@enduml
