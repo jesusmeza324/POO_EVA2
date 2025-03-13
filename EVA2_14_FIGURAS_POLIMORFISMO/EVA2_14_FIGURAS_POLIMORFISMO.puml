@@ -1,0 +1,46 @@
+@startuml
+abstract class com.mycompany.eva2_14_figuras_polimorfismo.Figura
+annotation java.lang.Override
+class com.mycompany.eva2_14_figuras_polimorfismo.Circulo
+class com.mycompany.eva2_14_figuras_polimorfismo.EVA2_14_FIGURAS_POLIMORFISMO
+class com.mycompany.eva2_14_figuras_polimorfismo.Rectangulo
+interface com.mycompany.eva2_14_figuras_polimorfismo.Datos
+com.mycompany.eva2_14_figuras_polimorfismo.Figura --|> com.mycompany.eva2_14_figuras_polimorfismo.Datos
+com.mycompany.eva2_14_figuras_polimorfismo.Circulo --|> com.mycompany.eva2_14_figuras_polimorfismo.Figura
+com.mycompany.eva2_14_figuras_polimorfismo.Circulo ..> java.lang.Override
+com.mycompany.eva2_14_figuras_polimorfismo.Rectangulo --|> com.mycompany.eva2_14_figuras_polimorfismo.Figura
+com.mycompany.eva2_14_figuras_polimorfismo.Rectangulo ..> java.lang.Override
+interface Datos {
+    + mostrarDatos(): void
+}
+abstract class Figura {
+    + calcularArea(): double
+    + calcularPerimetro(): double
+}
+class Circulo {
+    - radio: double
+    + Circulo()
+    + Circulo(radio: double)
+    + getRadio(): double
+    + setRadio(radio: double): void
+    + calcularArea(): double
+    + calcularPerimetro(): double
+    + mostrarDatos(): void
+}
+class Rectangulo {
+    - base: double
+    - altura: double
+    + Rectangulo()
+    + Rectangulo(base: double, altura: double)
+    + getBase(): double
+    + setBase(base: double): void
+    + getAltura(): double
+    + setAltura(altura: double): void
+    + calcularArea(): double
+    + calcularPerimetro(): double
+    + mostrarDatos(): void
+}
+class Main {
+    + imprimirAreasPerimetros(figuras: Figura[]): void
+}
+@enduml

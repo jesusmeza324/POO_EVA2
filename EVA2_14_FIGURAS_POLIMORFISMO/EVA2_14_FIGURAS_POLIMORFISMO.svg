@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="729px" preserveAspectRatio="none" style="width:1570px;height:729px;background:#FFFFFF;" version="1.1" viewBox="0 0 1570 729" width="1570px" zoomAndPan="magnify">
+    <defs/>
+    <g>
+        <!--cluster com-->
+        <g id="cluster_com">
+            <path d="M722,6 L752,6 A3.75,3.75 0 0 1 754.5,8.5 L761.5,29.6094 L1369,29.6094 A2.5,2.5 0 0 1 1371.5,32.1094 L1371.5,720 A2.5,2.5 0 0 1 1369,722.5 L722,722.5 A2.5,2.5 0 0 1 719.5,720 L719.5,8.5 A2.5,2.5 0 0 1 722,6 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="719.5" x2="761.5" y1="29.6094" y2="29.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="29" x="723.5" y="22.5332">com</text>
+        </g>
+        <!--cluster mycompany-->
+        <g id="cluster_mycompany">
+            <path d="M746,50 L828,50 A3.75,3.75 0 0 1 830.5,52.5 L837.5,73.6094 L1345,73.6094 A2.5,2.5 0 0 1 1347.5,76.1094 L1347.5,696 A2.5,2.5 0 0 1 1345,698.5 L746,698.5 A2.5,2.5 0 0 1 743.5,696 L743.5,52.5 A2.5,2.5 0 0 1 746,50 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="743.5" x2="837.5" y1="73.6094" y2="73.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="81" x="747.5" y="66.5332">mycompany</text>
+        </g>
+        <!--cluster eva2_14_figuras_polimorfismo-->
+        <g id="cluster_eva2_14_figuras_polimorfismo">
+            <path d="M770,94 L985,94 A3.75,3.75 0 0 1 987.5,96.5 L994.5,117.6094 L1321,117.6094 A2.5,2.5 0 0 1 1323.5,120.1094 L1323.5,672 A2.5,2.5 0 0 1 1321,674.5 L770,674.5 A2.5,2.5 0 0 1 767.5,672 L767.5,96.5 A2.5,2.5 0 0 1 770,94 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="767.5" x2="994.5" y1="117.6094" y2="117.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="214" x="771.5" y="110.5332">eva2_14_figuras_polimorfismo</text>
+        </g>
+        <!--cluster java-->
+        <g id="cluster_java">
+            <path d="M1398,325.5 L1428,325.5 A3.75,3.75 0 0 1 1430.5,328 L1437.5,349.1094 L1561,349.1094 A2.5,2.5 0 0 1 1563.5,351.6094 L1563.5,491 A2.5,2.5 0 0 1 1561,493.5 L1398,493.5 A2.5,2.5 0 0 1 1395.5,491 L1395.5,328 A2.5,2.5 0 0 1 1398,325.5 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="1395.5" x2="1437.5" y1="349.1094" y2="349.1094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="29" x="1399.5" y="342.0332">java</text>
+        </g>
+        <!--cluster lang-->
+        <g id="cluster_lang">
+            <path d="M1422,369.5 L1453,369.5 A3.75,3.75 0 0 1 1455.5,372 L1462.5,393.1094 L1537,393.1094 A2.5,2.5 0 0 1 1539.5,395.6094 L1539.5,467 A2.5,2.5 0 0 1 1537,469.5 L1422,469.5 A2.5,2.5 0 0 1 1419.5,467 L1419.5,372 A2.5,2.5 0 0 1 1422,369.5 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="1419.5" x2="1462.5" y1="393.1094" y2="393.1094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="30" x="1423.5" y="386.0332">lang</text>
+        </g>
+        <!--class Figura-->
+        <g id="elem_Figura">
+            <rect codeLine="1" fill="#F1F1F1" height="48" id="Figura" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="73" x="1016" y="405.5"/>
+            <ellipse cx="1031" cy="421.5" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M1033.1875,423.2656 L1029.0469,423.2656 L1028.625,424.2969 L1029.0469,424.2969 Q1029.6563,424.2969 1029.9219,424.5313 Q1030.1875,424.7656 1030.1875,425.1563 Q1030.1875,425.5313 1029.9219,425.7656 Q1029.6563,426 1029.0469,426 L1026.75,426 Q1026.1406,426 1025.8906,425.7656 Q1025.625,425.5313 1025.625,425.1406 Q1025.625,424.7656 1025.9063,424.5313 Q1026.1719,424.2813 1026.7969,424.2969 L1029.4688,417.6406 L1028.3594,417.6406 Q1027.75,417.6406 1027.4844,417.4063 Q1027.2188,417.1719 1027.2188,416.7813 Q1027.2188,416.4063 1027.4844,416.1719 Q1027.75,415.9375 1028.3594,415.9375 L1032.0313,415.9375 L1035.4219,424.2969 Q1036.0156,424.2969 1036.2031,424.4375 Q1036.5938,424.7031 1036.5938,425.1563 Q1036.5938,425.5313 1036.3281,425.7656 Q1036.0781,426 1035.4688,426 L1033.1719,426 Q1032.5625,426 1032.2969,425.7656 Q1032.0313,425.5313 1032.0313,425.1406 Q1032.0313,424.7656 1032.2969,424.5313 Q1032.5625,424.2969 1033.1719,424.2969 L1033.5938,424.2969 L1033.1875,423.2656 Z M1032.4688,421.5625 L1031.1094,418.1875 L1029.7344,421.5625 L1032.4688,421.5625 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="41" x="1045" y="427.2285">Figura</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1017" x2="1088" y1="437.5" y2="437.5"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1017" x2="1088" y1="445.5" y2="445.5"/>
+        </g>
+        <!--class Circulo-->
+        <g id="elem_Circulo">
+            <rect codeLine="3" fill="#F1F1F1" height="48" id="Circulo" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="76" x="1231.5" y="130"/>
+            <ellipse cx="1246.5" cy="146" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M1249.2656,141.875 Q1249.4219,141.6563 1249.6094,141.5469 Q1249.7969,141.4375 1250.0156,141.4375 Q1250.3906,141.4375 1250.625,141.7031 Q1250.8594,141.9531 1250.8594,142.5625 L1250.8594,144.0156 Q1250.8594,144.625 1250.625,144.8906 Q1250.3906,145.1563 1250.0156,145.1563 Q1249.6719,145.1563 1249.4688,144.9531 Q1249.2656,144.7656 1249.1563,144.25 Q1249.1094,143.8906 1248.9219,143.7031 Q1248.5938,143.3281 1247.9844,143.1094 Q1247.375,142.8906 1246.75,142.8906 Q1245.9844,142.8906 1245.3438,143.2188 Q1244.7188,143.5469 1244.2188,144.2969 Q1243.7344,145.0469 1243.7344,146.0781 L1243.7344,147.1719 Q1243.7344,148.4063 1244.625,149.2344 Q1245.5156,150.0469 1247.1094,150.0469 Q1248.0469,150.0469 1248.7031,149.7969 Q1249.0938,149.6406 1249.5156,149.2031 Q1249.7813,148.9375 1249.9219,148.8594 Q1250.0781,148.7813 1250.2813,148.7813 Q1250.6094,148.7813 1250.8594,149.0469 Q1251.125,149.2969 1251.125,149.6406 Q1251.125,149.9844 1250.7813,150.3906 Q1250.2813,150.9688 1249.4844,151.2969 Q1248.4063,151.75 1247.1094,151.75 Q1245.5938,151.75 1244.3906,151.125 Q1243.4063,150.625 1242.7188,149.5625 Q1242.0313,148.4844 1242.0313,147.2031 L1242.0313,146.0469 Q1242.0313,144.7188 1242.6406,143.5781 Q1243.2656,142.4219 1244.3594,141.8125 Q1245.4531,141.1875 1246.6875,141.1875 Q1247.4219,141.1875 1248.0625,141.3594 Q1248.7188,141.5156 1249.2656,141.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="44" x="1260.5" y="151.7285">Circulo</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1232.5" x2="1306.5" y1="162" y2="162"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1232.5" x2="1306.5" y1="170" y2="170"/>
+        </g>
+        <!--class EVA2_14_FIGURAS_POLIMORFISMO-->
+        <g id="elem_EVA2_14_FIGURAS_POLIMORFISMO">
+            <rect codeLine="4" fill="#F1F1F1" height="48" id="EVA2_14_FIGURAS_POLIMORFISMO" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="273" x="923" y="130"/>
+            <ellipse cx="938" cy="146" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M940.7656,141.875 Q940.9219,141.6563 941.1094,141.5469 Q941.2969,141.4375 941.5156,141.4375 Q941.8906,141.4375 942.125,141.7031 Q942.3594,141.9531 942.3594,142.5625 L942.3594,144.0156 Q942.3594,144.625 942.125,144.8906 Q941.8906,145.1563 941.5156,145.1563 Q941.1719,145.1563 940.9688,144.9531 Q940.7656,144.7656 940.6563,144.25 Q940.6094,143.8906 940.4219,143.7031 Q940.0938,143.3281 939.4844,143.1094 Q938.875,142.8906 938.25,142.8906 Q937.4844,142.8906 936.8438,143.2188 Q936.2188,143.5469 935.7188,144.2969 Q935.2344,145.0469 935.2344,146.0781 L935.2344,147.1719 Q935.2344,148.4063 936.125,149.2344 Q937.0156,150.0469 938.6094,150.0469 Q939.5469,150.0469 940.2031,149.7969 Q940.5938,149.6406 941.0156,149.2031 Q941.2813,148.9375 941.4219,148.8594 Q941.5781,148.7813 941.7813,148.7813 Q942.1094,148.7813 942.3594,149.0469 Q942.625,149.2969 942.625,149.6406 Q942.625,149.9844 942.2813,150.3906 Q941.7813,150.9688 940.9844,151.2969 Q939.9063,151.75 938.6094,151.75 Q937.0938,151.75 935.8906,151.125 Q934.9063,150.625 934.2188,149.5625 Q933.5313,148.4844 933.5313,147.2031 L933.5313,146.0469 Q933.5313,144.7188 934.1406,143.5781 Q934.7656,142.4219 935.8594,141.8125 Q936.9531,141.1875 938.1875,141.1875 Q938.9219,141.1875 939.5625,141.3594 Q940.2188,141.5156 940.7656,141.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="241" x="952" y="151.7285">EVA2_14_FIGURAS_POLIMORFISMO</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="924" x2="1195" y1="162" y2="162"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="924" x2="1195" y1="170" y2="170"/>
+        </g>
+        <!--class Rectangulo-->
+        <g id="elem_Rectangulo">
+            <rect codeLine="5" fill="#F1F1F1" height="48" id="Rectangulo" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="104" x="783.5" y="130"/>
+            <ellipse cx="798.5" cy="146" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M801.2656,141.875 Q801.4219,141.6563 801.6094,141.5469 Q801.7969,141.4375 802.0156,141.4375 Q802.3906,141.4375 802.625,141.7031 Q802.8594,141.9531 802.8594,142.5625 L802.8594,144.0156 Q802.8594,144.625 802.625,144.8906 Q802.3906,145.1563 802.0156,145.1563 Q801.6719,145.1563 801.4688,144.9531 Q801.2656,144.7656 801.1563,144.25 Q801.1094,143.8906 800.9219,143.7031 Q800.5938,143.3281 799.9844,143.1094 Q799.375,142.8906 798.75,142.8906 Q797.9844,142.8906 797.3438,143.2188 Q796.7188,143.5469 796.2188,144.2969 Q795.7344,145.0469 795.7344,146.0781 L795.7344,147.1719 Q795.7344,148.4063 796.625,149.2344 Q797.5156,150.0469 799.1094,150.0469 Q800.0469,150.0469 800.7031,149.7969 Q801.0938,149.6406 801.5156,149.2031 Q801.7813,148.9375 801.9219,148.8594 Q802.0781,148.7813 802.2813,148.7813 Q802.6094,148.7813 802.8594,149.0469 Q803.125,149.2969 803.125,149.6406 Q803.125,149.9844 802.7813,150.3906 Q802.2813,150.9688 801.4844,151.2969 Q800.4063,151.75 799.1094,151.75 Q797.5938,151.75 796.3906,151.125 Q795.4063,150.625 794.7188,149.5625 Q794.0313,148.4844 794.0313,147.2031 L794.0313,146.0469 Q794.0313,144.7188 794.6406,143.5781 Q795.2656,142.4219 796.3594,141.8125 Q797.4531,141.1875 798.6875,141.1875 Q799.4219,141.1875 800.0625,141.3594 Q800.7188,141.5156 801.2656,141.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="72" x="812.5" y="151.7285">Rectangulo</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="784.5" x2="886.5" y1="162" y2="162"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="784.5" x2="886.5" y1="170" y2="170"/>
+        </g>
+        <!--class Datos-->
+        <g id="elem_Datos">
+            <rect codeLine="6" fill="#F1F1F1" height="48" id="Datos" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="69" x="1018" y="610.5"/>
+            <ellipse cx="1033" cy="626.5" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M1033.9531,623.1406 L1033.9531,629.7969 L1035.6719,629.7969 Q1036.2813,629.7969 1036.5469,630.0313 Q1036.8125,630.2656 1036.8125,630.6563 Q1036.8125,631.0313 1036.5469,631.2656 Q1036.2813,631.5 1035.6719,631.5 L1030.5313,631.5 Q1029.9219,631.5 1029.6563,631.2656 Q1029.3906,631.0313 1029.3906,630.6406 Q1029.3906,630.2656 1029.6563,630.0313 Q1029.9219,629.7969 1030.5313,629.7969 L1032.25,629.7969 L1032.25,623.1406 L1030.5313,623.1406 Q1029.9219,623.1406 1029.6563,622.9063 Q1029.3906,622.6719 1029.3906,622.2813 Q1029.3906,621.9063 1029.6563,621.6719 Q1029.9219,621.4375 1030.5313,621.4375 L1035.6719,621.4375 Q1036.2813,621.4375 1036.5469,621.6719 Q1036.8125,621.9063 1036.8125,622.2813 Q1036.8125,622.6719 1036.5469,622.9063 Q1036.2813,623.1406 1035.6719,623.1406 L1033.9531,623.1406 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="37" x="1047" y="632.2285">Datos</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1019" x2="1086" y1="642.5" y2="642.5"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1019" x2="1086" y1="650.5" y2="650.5"/>
+        </g>
+        <!--class Override-->
+        <g id="elem_Override">
+            <rect codeLine="2" fill="#F1F1F1" height="48" id="Override" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="87" x="1436" y="405.5"/>
+            <ellipse cx="1451" cy="421.5" fill="#E3664A" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M1453.3438,419.0781 L1453.3438,418.5625 Q1453.3438,417.7344 1452.8594,417.2344 Q1452.3906,416.7344 1451.6406,416.7344 Q1451.0469,416.7344 1450.5156,417.1406 Q1449.9844,417.5313 1449.7188,418.1563 Q1449.25,419.25 1449.25,420.3594 L1449.25,422.875 Q1449.25,424.7969 1450.1094,425.9219 Q1450.6719,426.6719 1451.6875,426.6719 Q1452.2344,426.6719 1452.6719,426.5313 Q1453.125,426.3906 1453.375,426.1406 Q1453.625,425.8906 1453.8438,425.8906 Q1454.1094,425.8906 1454.2969,426.0781 Q1454.4844,426.2656 1454.4844,426.5313 Q1454.4844,426.9531 1453.9063,427.3438 Q1453.0781,427.9063 1451.6406,427.9063 Q1450.5469,427.9063 1449.8281,427.4063 Q1448.9063,426.7656 1448.4531,425.5 Q1448,424.2344 1448,423 L1448,420.2656 Q1448,418.2813 1448.9844,416.8906 Q1449.9688,415.4844 1451.6094,415.4844 Q1452.3594,415.4844 1453,415.7969 Q1453.6563,416.0938 1454.125,416.8594 Q1454.5938,417.625 1454.5938,418.5625 L1454.5938,423.0938 Q1454.9531,423.2656 1454.9531,423.6563 Q1454.9531,423.9375 1454.75,424.125 Q1454.5625,424.2969 1454.0938,424.2969 L1453.3438,424.2969 L1453.3438,424.25 Q1452.9531,424.3125 1452.7656,424.3125 Q1451.7656,424.3125 1451.0156,423.5781 Q1450.2813,422.8281 1450.2813,421.8281 Q1450.2813,420.7656 1451.0938,419.9688 Q1451.9219,419.1719 1453.3438,419.0781 Z M1453.3438,420.3594 Q1452.4531,420.4531 1451.9844,420.875 Q1451.5313,421.2969 1451.5313,421.8438 Q1451.5313,422.3281 1451.9063,422.6719 Q1452.2969,423.0156 1452.9375,423.0156 Q1453.0625,423.0156 1453.3438,423 L1453.3438,420.3594 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="1465" y="427.2285">Override</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1437" x2="1522" y1="437.5" y2="437.5"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="1437" x2="1522" y1="445.5" y2="445.5"/>
+        </g>
+        <!--class Datos-->
+        <g id="elem_Datos">
+            <rect codeLine="12" fill="#F1F1F1" height="65.6094" id="Datos" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="155" x="72" y="121"/>
+            <ellipse cx="126.75" cy="137" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M127.7031,133.6406 L127.7031,140.2969 L129.4219,140.2969 Q130.0313,140.2969 130.2969,140.5313 Q130.5625,140.7656 130.5625,141.1563 Q130.5625,141.5313 130.2969,141.7656 Q130.0313,142 129.4219,142 L124.2813,142 Q123.6719,142 123.4063,141.7656 Q123.1406,141.5313 123.1406,141.1406 Q123.1406,140.7656 123.4063,140.5313 Q123.6719,140.2969 124.2813,140.2969 L126,140.2969 L126,133.6406 L124.2813,133.6406 Q123.6719,133.6406 123.4063,133.4063 Q123.1406,133.1719 123.1406,132.7813 Q123.1406,132.4063 123.4063,132.1719 Q123.6719,131.9375 124.2813,131.9375 L129.4219,131.9375 Q130.0313,131.9375 130.2969,132.1719 Q130.5625,132.4063 130.5625,132.7813 Q130.5625,133.1719 130.2969,133.4063 Q130.0313,133.6406 129.4219,133.6406 L127.7031,133.6406 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="37" x="147.25" y="142.7285">Datos</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="73" x2="226" y1="153" y2="153"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="73" x2="226" y1="161" y2="161"/>
+            <ellipse cx="83" cy="175.3047" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="129" x="92" y="179.5332">mostrarDatos(): void</text>
+        </g>
+        <!--class Figura-->
+        <g id="elem_Figura">
+            <rect codeLine="15" fill="#F1F1F1" height="83.2188" id="Figura" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="197" x="262" y="112.5"/>
+            <ellipse cx="335.75" cy="128.5" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M337.9375,130.2656 L333.7969,130.2656 L333.375,131.2969 L333.7969,131.2969 Q334.4063,131.2969 334.6719,131.5313 Q334.9375,131.7656 334.9375,132.1563 Q334.9375,132.5313 334.6719,132.7656 Q334.4063,133 333.7969,133 L331.5,133 Q330.8906,133 330.6406,132.7656 Q330.375,132.5313 330.375,132.1406 Q330.375,131.7656 330.6563,131.5313 Q330.9219,131.2813 331.5469,131.2969 L334.2188,124.6406 L333.1094,124.6406 Q332.5,124.6406 332.2344,124.4063 Q331.9688,124.1719 331.9688,123.7813 Q331.9688,123.4063 332.2344,123.1719 Q332.5,122.9375 333.1094,122.9375 L336.7813,122.9375 L340.1719,131.2969 Q340.7656,131.2969 340.9531,131.4375 Q341.3438,131.7031 341.3438,132.1563 Q341.3438,132.5313 341.0781,132.7656 Q340.8281,133 340.2188,133 L337.9219,133 Q337.3125,133 337.0469,132.7656 Q336.7813,132.5313 336.7813,132.1406 Q336.7813,131.7656 337.0469,131.5313 Q337.3125,131.2969 337.9219,131.2969 L338.3438,131.2969 L337.9375,130.2656 Z M337.2188,128.5625 L335.8594,125.1875 L334.4844,128.5625 L337.2188,128.5625 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="41" x="356.25" y="134.2285">Figura</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="263" x2="458" y1="144.5" y2="144.5"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="263" x2="458" y1="152.5" y2="152.5"/>
+            <ellipse cx="273" cy="166.8047" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="140" x="282" y="171.0332">calcularArea(): double</text>
+            <ellipse cx="273" cy="184.4141" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="171" x="282" y="188.6426">calcularPerimetro(): double</text>
+        </g>
+        <!--class Circulo-->
+        <g id="elem_Circulo">
+            <rect codeLine="19" fill="#F1F1F1" height="188.875" id="Circulo" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="209" x="494" y="59.5"/>
+            <ellipse cx="572.25" cy="75.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M575.0156,71.375 Q575.1719,71.1563 575.3594,71.0469 Q575.5469,70.9375 575.7656,70.9375 Q576.1406,70.9375 576.375,71.2031 Q576.6094,71.4531 576.6094,72.0625 L576.6094,73.5156 Q576.6094,74.125 576.375,74.3906 Q576.1406,74.6563 575.7656,74.6563 Q575.4219,74.6563 575.2188,74.4531 Q575.0156,74.2656 574.9063,73.75 Q574.8594,73.3906 574.6719,73.2031 Q574.3438,72.8281 573.7344,72.6094 Q573.125,72.3906 572.5,72.3906 Q571.7344,72.3906 571.0938,72.7188 Q570.4688,73.0469 569.9688,73.7969 Q569.4844,74.5469 569.4844,75.5781 L569.4844,76.6719 Q569.4844,77.9063 570.375,78.7344 Q571.2656,79.5469 572.8594,79.5469 Q573.7969,79.5469 574.4531,79.2969 Q574.8438,79.1406 575.2656,78.7031 Q575.5313,78.4375 575.6719,78.3594 Q575.8281,78.2813 576.0313,78.2813 Q576.3594,78.2813 576.6094,78.5469 Q576.875,78.7969 576.875,79.1406 Q576.875,79.4844 576.5313,79.8906 Q576.0313,80.4688 575.2344,80.7969 Q574.1563,81.25 572.8594,81.25 Q571.3438,81.25 570.1406,80.625 Q569.1563,80.125 568.4688,79.0625 Q567.7813,77.9844 567.7813,76.7031 L567.7813,75.5469 Q567.7813,74.2188 568.3906,73.0781 Q569.0156,71.9219 570.1094,71.3125 Q571.2031,70.6875 572.4375,70.6875 Q573.1719,70.6875 573.8125,70.8594 Q574.4688,71.0156 575.0156,71.375 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="44" x="592.75" y="81.2285">Circulo</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="495" x2="702" y1="91.5" y2="91.5"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="502" y="102.8047"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="514" y="110.0332">radio: double</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="495" x2="702" y1="117.1094" y2="117.1094"/>
+            <ellipse cx="505" cy="131.4141" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="54" x="514" y="135.6426">Circulo()</text>
+            <ellipse cx="505" cy="149.0234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="137" x="514" y="153.252">Circulo(radio: double)</text>
+            <ellipse cx="505" cy="166.6328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="118" x="514" y="170.8613">getRadio(): double</text>
+            <ellipse cx="505" cy="184.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="183" x="514" y="188.4707">setRadio(radio: double): void</text>
+            <ellipse cx="505" cy="201.8516" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="140" x="514" y="206.0801">calcularArea(): double</text>
+            <ellipse cx="505" cy="219.4609" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="171" x="514" y="223.6895">calcularPerimetro(): double</text>
+            <ellipse cx="505" cy="237.0703" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="129" x="514" y="241.2988">mostrarDatos(): void</text>
+        </g>
+        <!--class Rectangulo-->
+        <g id="elem_Rectangulo">
+            <rect codeLine="29" fill="#F1F1F1" height="241.7031" id="Rectangulo" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="285" x="7" y="308.5"/>
+            <ellipse cx="109.25" cy="324.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M112.0156,320.375 Q112.1719,320.1563 112.3594,320.0469 Q112.5469,319.9375 112.7656,319.9375 Q113.1406,319.9375 113.375,320.2031 Q113.6094,320.4531 113.6094,321.0625 L113.6094,322.5156 Q113.6094,323.125 113.375,323.3906 Q113.1406,323.6563 112.7656,323.6563 Q112.4219,323.6563 112.2188,323.4531 Q112.0156,323.2656 111.9063,322.75 Q111.8594,322.3906 111.6719,322.2031 Q111.3438,321.8281 110.7344,321.6094 Q110.125,321.3906 109.5,321.3906 Q108.7344,321.3906 108.0938,321.7188 Q107.4688,322.0469 106.9688,322.7969 Q106.4844,323.5469 106.4844,324.5781 L106.4844,325.6719 Q106.4844,326.9063 107.375,327.7344 Q108.2656,328.5469 109.8594,328.5469 Q110.7969,328.5469 111.4531,328.2969 Q111.8438,328.1406 112.2656,327.7031 Q112.5313,327.4375 112.6719,327.3594 Q112.8281,327.2813 113.0313,327.2813 Q113.3594,327.2813 113.6094,327.5469 Q113.875,327.7969 113.875,328.1406 Q113.875,328.4844 113.5313,328.8906 Q113.0313,329.4688 112.2344,329.7969 Q111.1563,330.25 109.8594,330.25 Q108.3438,330.25 107.1406,329.625 Q106.1563,329.125 105.4688,328.0625 Q104.7813,326.9844 104.7813,325.7031 L104.7813,324.5469 Q104.7813,323.2188 105.3906,322.0781 Q106.0156,320.9219 107.1094,320.3125 Q108.2031,319.6875 109.4375,319.6875 Q110.1719,319.6875 110.8125,319.8594 Q111.4688,320.0156 112.0156,320.375 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="72" x="129.75" y="330.2285">Rectangulo</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="291" y1="340.5" y2="340.5"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="351.8047"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="82" x="27" y="359.0332">base: double</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="369.4141"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="87" x="27" y="376.6426">altura: double</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="291" y1="383.7188" y2="383.7188"/>
+            <ellipse cx="18" cy="398.0234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="82" x="27" y="402.252">Rectangulo()</text>
+            <ellipse cx="18" cy="415.6328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="259" x="27" y="419.8613">Rectangulo(base: double, altura: double)</text>
+            <ellipse cx="18" cy="433.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="113" x="27" y="437.4707">getBase(): double</text>
+            <ellipse cx="18" cy="450.8516" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="177" x="27" y="455.0801">setBase(base: double): void</text>
+            <ellipse cx="18" cy="468.4609" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="118" x="27" y="472.6895">getAltura(): double</text>
+            <ellipse cx="18" cy="486.0703" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="187" x="27" y="490.2988">setAltura(altura: double): void</text>
+            <ellipse cx="18" cy="503.6797" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="140" x="27" y="507.9082">calcularArea(): double</text>
+            <ellipse cx="18" cy="521.2891" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="171" x="27" y="525.5176">calcularPerimetro(): double</text>
+            <ellipse cx="18" cy="538.8984" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="129" x="27" y="543.127">mostrarDatos(): void</text>
+        </g>
+        <!--class Main-->
+        <g id="elem_Main">
+            <rect codeLine="42" fill="#F1F1F1" height="65.6094" id="Main" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="324" x="327.5" y="396.5"/>
+            <ellipse cx="470.25" cy="412.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M473.0156,408.375 Q473.1719,408.1563 473.3594,408.0469 Q473.5469,407.9375 473.7656,407.9375 Q474.1406,407.9375 474.375,408.2031 Q474.6094,408.4531 474.6094,409.0625 L474.6094,410.5156 Q474.6094,411.125 474.375,411.3906 Q474.1406,411.6563 473.7656,411.6563 Q473.4219,411.6563 473.2188,411.4531 Q473.0156,411.2656 472.9063,410.75 Q472.8594,410.3906 472.6719,410.2031 Q472.3438,409.8281 471.7344,409.6094 Q471.125,409.3906 470.5,409.3906 Q469.7344,409.3906 469.0938,409.7188 Q468.4688,410.0469 467.9688,410.7969 Q467.4844,411.5469 467.4844,412.5781 L467.4844,413.6719 Q467.4844,414.9063 468.375,415.7344 Q469.2656,416.5469 470.8594,416.5469 Q471.7969,416.5469 472.4531,416.2969 Q472.8438,416.1406 473.2656,415.7031 Q473.5313,415.4375 473.6719,415.3594 Q473.8281,415.2813 474.0313,415.2813 Q474.3594,415.2813 474.6094,415.5469 Q474.875,415.7969 474.875,416.1406 Q474.875,416.4844 474.5313,416.8906 Q474.0313,417.4688 473.2344,417.7969 Q472.1563,418.25 470.8594,418.25 Q469.3438,418.25 468.1406,417.625 Q467.1563,417.125 466.4688,416.0625 Q465.7813,414.9844 465.7813,413.7031 L465.7813,412.5469 Q465.7813,411.2188 466.3906,410.0781 Q467.0156,408.9219 468.1094,408.3125 Q469.2031,407.6875 470.4375,407.6875 Q471.1719,407.6875 471.8125,407.8594 Q472.4688,408.0156 473.0156,408.375 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="30" x="490.75" y="418.2285">Main</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="328.5" x2="650.5" y1="428.5" y2="428.5"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="328.5" x2="650.5" y1="436.5" y2="436.5"/>
+            <ellipse cx="338.5" cy="450.8047" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="298" x="347.5" y="455.0332">imprimirAreasPerimetros(figuras: Figura[]): void</text>
+        </g>
+        <!--link Figura to Datos-->
+        <g id="link_Figura_Datos">
+            <path codeLine="7" d="M1052.5,453.79 C1052.5,492.94 1052.5,553.51 1052.5,592.48 " fill="none" id="Figura-to-Datos" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="1052.5,610.48,1058.5,592.48,1046.5,592.48,1052.5,610.48" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--link Circulo to Figura-->
+        <g id="link_Circulo_Figura">
+            <path codeLine="8" d="M1257.3,178.06 C1246.66,197.47 1230.33,225.65 1213.5,248.5 C1169.25,308.6 1121.3582,359.3428 1088.5682,392.4928 " fill="none" id="Circulo-to-Figura" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="1075.91,405.29,1092.834,396.7122,1084.3025,388.2734,1075.91,405.29" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--link Circulo to Override-->
+        <g id="link_Circulo_Override">
+            <path codeLine="9" d="M1287.4,178.32 C1327.08,229.99 1418.3562,348.8608 1457.9862,400.4808 " fill="none" id="Circulo-to-Override" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="#181818" points="1461.64,405.24,1459.3322,395.6654,1458.5952,401.274,1452.9866,400.537,1461.64,405.24" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--link Rectangulo to Figura-->
+        <g id="link_Rectangulo_Figura">
+            <path codeLine="10" d="M852.49,178.26 C866.5,197.3 887.01,224.86 905.5,248.5 C950.24,305.71 993.1963,357.649 1021.6063,391.639 " fill="none" id="Rectangulo-to-Figura" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="1033.15,405.45,1026.21,387.7911,1017.0026,395.4869,1033.15,405.45" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--link Rectangulo to Override-->
+        <g id="link_Rectangulo_Override">
+            <path codeLine="11" d="M846.09,178.01 C857.48,199.97 877.77,232.05 905.5,248.5 C1066.92,344.25 1150.57,235.56 1323.5,308.5 C1377.34,331.21 1424.5963,372.8985 1452.8663,400.8885 " fill="none" id="Rectangulo-to-Override" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="#181818" points="1457.13,405.11,1453.5488,395.9353,1453.5769,401.5921,1447.9201,401.6203,1457.13,405.11" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--SRC=[lLDDQyCm3BtdL_ZOiiMmiLCFXUoZex2Iah9TnWYAunQFn2ws6oXR__iSrqcJh1kaOyt144dlINgI855Q0j68PA0K8YB7-TQyQ-1RJ0kuZgzkuYLRRIIeU2qobWkvP2eNU6AD7d0kD6WcE7g70d06V8N3Wah9KkhrPhrZacmoqH_uy19OvsJw-1m5YtWUFardOJIPBcPXVxQ84cqQAIjXN5Ev14BxuEz12-NrLXFv_kVuN_CuVNidSjC-8HF6uwERSSempb1s8zaFbHyMmggFFZnalWkKY_AKf3KEXYDK29PwEm_Q5-O6NO48P4Oba86aK89IiKaosd7EgMGvrL8q8dPkgIkPzuG-af0oqU5nCODXvxyLMpbNL4Ub_LirgdAqOQxHFxRpguJxJXkJgPfDGD4MXOyWqqRV3ky1MclGC3LPBZi43LLkJTWnKQozoT6Mn203ItaCwpoTd6UJT0QCrwl8yhKXOJQHgWdLm9t9oAtkwrlDyWK0]-->
+    </g>
+</svg>
