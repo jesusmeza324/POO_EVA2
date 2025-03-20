@@ -1,0 +1,34 @@
+@startuml
+annotation java.lang.Override
+annotation java.lang.SuppressWarnings
+class eva2_17_ui_interfaces.Principal
+class java.awt.event.MouseEvent
+class javax.swing.JFrame
+class javax.swing.JOptionPane
+interface java.awt.event.MouseListener
+eva2_17_ui_interfaces.Principal ..> java.lang.Override
+eva2_17_ui_interfaces.Principal ..> java.lang.SuppressWarnings
+eva2_17_ui_interfaces.Principal ..> java.awt.event.MouseEvent
+eva2_17_ui_interfaces.Principal --|> javax.swing.JFrame
+eva2_17_ui_interfaces.Principal ..> javax.swing.JOptionPane
+eva2_17_ui_interfaces.Principal --|> java.awt.event.MouseListener
+interface MouseListener {
+    + mouseClicked(e: MouseEvent): void
+    + mousePressed(e: MouseEvent): void
+    + mouseReleased(e: MouseEvent): void
+    + mouseEntered(e: MouseEvent): void
+    + mouseExited(e: MouseEvent): void
+}
+
+class Principal {
+    - btnEvento: JButton
+    + Principal()
+    + initComponents(): void
+    + btnEventoActionPerformed(evt: ActionEvent): void
+    + mouseClicked(e: MouseEvent): void
+    + mousePressed(e: MouseEvent): void
+    + mouseReleased(e: MouseEvent): void
+    + mouseEntered(e: MouseEvent): void
+    + mouseExited(e: MouseEvent): void
+}
+@enduml
