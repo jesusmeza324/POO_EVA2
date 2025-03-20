@@ -1,0 +1,33 @@
+@startuml
+annotation java.lang.SuppressWarnings
+class eva2_16_ui_2.Principal
+class eva2_16_ui_2.Secundaria
+class javax.swing.JFrame
+eva2_16_ui_2.Principal ..> java.lang.SuppressWarnings
+eva2_16_ui_2.Principal --|> javax.swing.JFrame
+eva2_16_ui_2.Secundaria ..> java.lang.SuppressWarnings
+eva2_16_ui_2.Secundaria --|> javax.swing.JFrame
+class Principal {
+    - valor: String
+    + Principal()
+    + getValor(): String
+    + setValor(valor: String): void
+    + initComponents(): void
+    + btnCerrarMouseClicked(evt: MouseEvent): void
+    + btnMostrarMouseClicked(evt: MouseEvent): void
+    + txtFldMensajeActionPerformed(evt: ActionEvent): void
+    + main(args: String[]): void
+}
+
+class Secundaria {
+    - mensaje: String
+    - pantallaPpal: Principal
+    + Secundaria()
+    + Secundaria(mensaje: String, pantallaPpal: Principal)
+    + setMensaje(mensaje: String): void
+    + initComponents(): void
+    + btnCerrarMouseClicked(evt: MouseEvent): void
+    + btnCerrarActionPerformed(evt: ActionEvent): void
+    + main(args: String[]): void
+}
+@enduml

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="404px" preserveAspectRatio="none" style="width:1109px;height:404px;background:#FFFFFF;" version="1.1" viewBox="0 0 1109 404" width="1109px" zoomAndPan="magnify">
+    <defs/>
+    <g>
+        <!--cluster java-->
+        <g id="cluster_java">
+            <path d="M688.5,229 L718.5,229 A3.75,3.75 0 0 1 721,231.5 L728,252.6094 L915.5,252.6094 A2.5,2.5 0 0 1 918,255.1094 L918,394.5 A2.5,2.5 0 0 1 915.5,397 L688.5,397 A2.5,2.5 0 0 1 686,394.5 L686,231.5 A2.5,2.5 0 0 1 688.5,229 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="686" x2="728" y1="252.6094" y2="252.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="29" x="690" y="245.5332">java</text>
+        </g>
+        <!--cluster lang-->
+        <g id="cluster_lang">
+            <path d="M712.5,273 L743.5,273 A3.75,3.75 0 0 1 746,275.5 L753,296.6094 L891.5,296.6094 A2.5,2.5 0 0 1 894,299.1094 L894,370.5 A2.5,2.5 0 0 1 891.5,373 L712.5,373 A2.5,2.5 0 0 1 710,370.5 L710,275.5 A2.5,2.5 0 0 1 712.5,273 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="710" x2="753" y1="296.6094" y2="296.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="30" x="714" y="289.5332">lang</text>
+        </g>
+        <!--cluster eva2_16_ui_2-->
+        <g id="cluster_eva2_16_ui_2">
+            <path d="M781.5,50 L877.5,50 A3.75,3.75 0 0 1 880,52.5 L887,73.6094 L1033.5,73.6094 A2.5,2.5 0 0 1 1036,76.1094 L1036,147.5 A2.5,2.5 0 0 1 1033.5,150 L781.5,150 A2.5,2.5 0 0 1 779,147.5 L779,52.5 A2.5,2.5 0 0 1 781.5,50 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="779" x2="887" y1="73.6094" y2="73.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="95" x="783" y="66.5332">eva2_16_ui_2</text>
+        </g>
+        <!--cluster javax-->
+        <g id="cluster_javax">
+            <path d="M944.5,229 L982.5,229 A3.75,3.75 0 0 1 985,231.5 L992,252.6094 L1099.5,252.6094 A2.5,2.5 0 0 1 1102,255.1094 L1102,394.5 A2.5,2.5 0 0 1 1099.5,397 L944.5,397 A2.5,2.5 0 0 1 942,394.5 L942,231.5 A2.5,2.5 0 0 1 944.5,229 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="942" x2="992" y1="252.6094" y2="252.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="37" x="946" y="245.5332">javax</text>
+        </g>
+        <!--cluster swing-->
+        <g id="cluster_swing">
+            <path d="M968.5,273 L1010.5,273 A3.75,3.75 0 0 1 1013,275.5 L1020,296.6094 L1075.5,296.6094 A2.5,2.5 0 0 1 1078,299.1094 L1078,370.5 A2.5,2.5 0 0 1 1075.5,373 L968.5,373 A2.5,2.5 0 0 1 966,370.5 L966,275.5 A2.5,2.5 0 0 1 968.5,273 " fill="none" style="stroke:#000000;stroke-width:1.5;"/>
+            <line style="stroke:#000000;stroke-width:1.5;" x1="966" x2="1020" y1="296.6094" y2="296.6094"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="41" x="970" y="289.5332">swing</text>
+        </g>
+        <!--class SuppressWarnings-->
+        <g id="elem_SuppressWarnings">
+            <rect codeLine="1" fill="#F1F1F1" height="48" id="SuppressWarnings" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="152" x="726" y="309"/>
+            <ellipse cx="741" cy="325" fill="#E3664A" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M743.3438,322.5781 L743.3438,322.0625 Q743.3438,321.2344 742.8594,320.7344 Q742.3906,320.2344 741.6406,320.2344 Q741.0469,320.2344 740.5156,320.6406 Q739.9844,321.0313 739.7188,321.6563 Q739.25,322.75 739.25,323.8594 L739.25,326.375 Q739.25,328.2969 740.1094,329.4219 Q740.6719,330.1719 741.6875,330.1719 Q742.2344,330.1719 742.6719,330.0313 Q743.125,329.8906 743.375,329.6406 Q743.625,329.3906 743.8438,329.3906 Q744.1094,329.3906 744.2969,329.5781 Q744.4844,329.7656 744.4844,330.0313 Q744.4844,330.4531 743.9063,330.8438 Q743.0781,331.4063 741.6406,331.4063 Q740.5469,331.4063 739.8281,330.9063 Q738.9063,330.2656 738.4531,329 Q738,327.7344 738,326.5 L738,323.7656 Q738,321.7813 738.9844,320.3906 Q739.9688,318.9844 741.6094,318.9844 Q742.3594,318.9844 743,319.2969 Q743.6563,319.5938 744.125,320.3594 Q744.5938,321.125 744.5938,322.0625 L744.5938,326.5938 Q744.9531,326.7656 744.9531,327.1563 Q744.9531,327.4375 744.75,327.625 Q744.5625,327.7969 744.0938,327.7969 L743.3438,327.7969 L743.3438,327.75 Q742.9531,327.8125 742.7656,327.8125 Q741.7656,327.8125 741.0156,327.0781 Q740.2813,326.3281 740.2813,325.3281 Q740.2813,324.2656 741.0938,323.4688 Q741.9219,322.6719 743.3438,322.5781 Z M743.3438,323.8594 Q742.4531,323.9531 741.9844,324.375 Q741.5313,324.7969 741.5313,325.3438 Q741.5313,325.8281 741.9063,326.1719 Q742.2969,326.5156 742.9375,326.5156 Q743.0625,326.5156 743.3438,326.5 L743.3438,323.8594 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120" x="755" y="330.7285">SuppressWarnings</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="727" x2="877" y1="341" y2="341"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="727" x2="877" y1="349" y2="349"/>
+        </g>
+        <!--class Principal-->
+        <g id="elem_Principal">
+            <rect codeLine="2" fill="#F1F1F1" height="48" id="Principal" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="86" x="934" y="86"/>
+            <ellipse cx="949" cy="102" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M951.7656,97.875 Q951.9219,97.6563 952.1094,97.5469 Q952.2969,97.4375 952.5156,97.4375 Q952.8906,97.4375 953.125,97.7031 Q953.3594,97.9531 953.3594,98.5625 L953.3594,100.0156 Q953.3594,100.625 953.125,100.8906 Q952.8906,101.1563 952.5156,101.1563 Q952.1719,101.1563 951.9688,100.9531 Q951.7656,100.7656 951.6563,100.25 Q951.6094,99.8906 951.4219,99.7031 Q951.0938,99.3281 950.4844,99.1094 Q949.875,98.8906 949.25,98.8906 Q948.4844,98.8906 947.8438,99.2188 Q947.2188,99.5469 946.7188,100.2969 Q946.2344,101.0469 946.2344,102.0781 L946.2344,103.1719 Q946.2344,104.4063 947.125,105.2344 Q948.0156,106.0469 949.6094,106.0469 Q950.5469,106.0469 951.2031,105.7969 Q951.5938,105.6406 952.0156,105.2031 Q952.2813,104.9375 952.4219,104.8594 Q952.5781,104.7813 952.7813,104.7813 Q953.1094,104.7813 953.3594,105.0469 Q953.625,105.2969 953.625,105.6406 Q953.625,105.9844 953.2813,106.3906 Q952.7813,106.9688 951.9844,107.2969 Q950.9063,107.75 949.6094,107.75 Q948.0938,107.75 946.8906,107.125 Q945.9063,106.625 945.2188,105.5625 Q944.5313,104.4844 944.5313,103.2031 L944.5313,102.0469 Q944.5313,100.7188 945.1406,99.5781 Q945.7656,98.4219 946.8594,97.8125 Q947.9531,97.1875 949.1875,97.1875 Q949.9219,97.1875 950.5625,97.3594 Q951.2188,97.5156 951.7656,97.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="54" x="963" y="107.7285">Principal</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="935" x2="1019" y1="118" y2="118"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="935" x2="1019" y1="126" y2="126"/>
+        </g>
+        <!--class Secundaria-->
+        <g id="elem_Secundaria">
+            <rect codeLine="3" fill="#F1F1F1" height="48" id="Secundaria" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="104" x="795" y="86"/>
+            <ellipse cx="810" cy="102" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M812.7656,97.875 Q812.9219,97.6563 813.1094,97.5469 Q813.2969,97.4375 813.5156,97.4375 Q813.8906,97.4375 814.125,97.7031 Q814.3594,97.9531 814.3594,98.5625 L814.3594,100.0156 Q814.3594,100.625 814.125,100.8906 Q813.8906,101.1563 813.5156,101.1563 Q813.1719,101.1563 812.9688,100.9531 Q812.7656,100.7656 812.6563,100.25 Q812.6094,99.8906 812.4219,99.7031 Q812.0938,99.3281 811.4844,99.1094 Q810.875,98.8906 810.25,98.8906 Q809.4844,98.8906 808.8438,99.2188 Q808.2188,99.5469 807.7188,100.2969 Q807.2344,101.0469 807.2344,102.0781 L807.2344,103.1719 Q807.2344,104.4063 808.125,105.2344 Q809.0156,106.0469 810.6094,106.0469 Q811.5469,106.0469 812.2031,105.7969 Q812.5938,105.6406 813.0156,105.2031 Q813.2813,104.9375 813.4219,104.8594 Q813.5781,104.7813 813.7813,104.7813 Q814.1094,104.7813 814.3594,105.0469 Q814.625,105.2969 814.625,105.6406 Q814.625,105.9844 814.2813,106.3906 Q813.7813,106.9688 812.9844,107.2969 Q811.9063,107.75 810.6094,107.75 Q809.0938,107.75 807.8906,107.125 Q806.9063,106.625 806.2188,105.5625 Q805.5313,104.4844 805.5313,103.2031 L805.5313,102.0469 Q805.5313,100.7188 806.1406,99.5781 Q806.7656,98.4219 807.8594,97.8125 Q808.9531,97.1875 810.1875,97.1875 Q810.9219,97.1875 811.5625,97.3594 Q812.2188,97.5156 812.7656,97.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="72" x="824" y="107.7285">Secundaria</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="796" x2="898" y1="118" y2="118"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="796" x2="898" y1="126" y2="126"/>
+        </g>
+        <!--class JFrame-->
+        <g id="elem_JFrame">
+            <rect codeLine="4" fill="#F1F1F1" height="48" id="JFrame" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="79" x="982.5" y="309"/>
+            <ellipse cx="997.5" cy="325" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M1000.2656,320.875 Q1000.4219,320.6563 1000.6094,320.5469 Q1000.7969,320.4375 1001.0156,320.4375 Q1001.3906,320.4375 1001.625,320.7031 Q1001.8594,320.9531 1001.8594,321.5625 L1001.8594,323.0156 Q1001.8594,323.625 1001.625,323.8906 Q1001.3906,324.1563 1001.0156,324.1563 Q1000.6719,324.1563 1000.4688,323.9531 Q1000.2656,323.7656 1000.1563,323.25 Q1000.1094,322.8906 999.9219,322.7031 Q999.5938,322.3281 998.9844,322.1094 Q998.375,321.8906 997.75,321.8906 Q996.9844,321.8906 996.3438,322.2188 Q995.7188,322.5469 995.2188,323.2969 Q994.7344,324.0469 994.7344,325.0781 L994.7344,326.1719 Q994.7344,327.4063 995.625,328.2344 Q996.5156,329.0469 998.1094,329.0469 Q999.0469,329.0469 999.7031,328.7969 Q1000.0938,328.6406 1000.5156,328.2031 Q1000.7813,327.9375 1000.9219,327.8594 Q1001.0781,327.7813 1001.2813,327.7813 Q1001.6094,327.7813 1001.8594,328.0469 Q1002.125,328.2969 1002.125,328.6406 Q1002.125,328.9844 1001.7813,329.3906 Q1001.2813,329.9688 1000.4844,330.2969 Q999.4063,330.75 998.1094,330.75 Q996.5938,330.75 995.3906,330.125 Q994.4063,329.625 993.7188,328.5625 Q993.0313,327.4844 993.0313,326.2031 L993.0313,325.0469 Q993.0313,323.7188 993.6406,322.5781 Q994.2656,321.4219 995.3594,320.8125 Q996.4531,320.1875 997.6875,320.1875 Q998.4219,320.1875 999.0625,320.3594 Q999.7188,320.5156 1000.2656,320.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="47" x="1011.5" y="330.7285">JFrame</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="983.5" x2="1060.5" y1="341" y2="341"/>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="983.5" x2="1060.5" y1="349" y2="349"/>
+        </g>
+        <!--class Principal-->
+        <g id="elem_Principal">
+            <rect codeLine="9" fill="#F1F1F1" height="206.4844" id="Principal" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="364" x="7" y="7"/>
+            <ellipse cx="157.75" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M160.5156,18.875 Q160.6719,18.6563 160.8594,18.5469 Q161.0469,18.4375 161.2656,18.4375 Q161.6406,18.4375 161.875,18.7031 Q162.1094,18.9531 162.1094,19.5625 L162.1094,21.0156 Q162.1094,21.625 161.875,21.8906 Q161.6406,22.1563 161.2656,22.1563 Q160.9219,22.1563 160.7188,21.9531 Q160.5156,21.7656 160.4063,21.25 Q160.3594,20.8906 160.1719,20.7031 Q159.8438,20.3281 159.2344,20.1094 Q158.625,19.8906 158,19.8906 Q157.2344,19.8906 156.5938,20.2188 Q155.9688,20.5469 155.4688,21.2969 Q154.9844,22.0469 154.9844,23.0781 L154.9844,24.1719 Q154.9844,25.4063 155.875,26.2344 Q156.7656,27.0469 158.3594,27.0469 Q159.2969,27.0469 159.9531,26.7969 Q160.3438,26.6406 160.7656,26.2031 Q161.0313,25.9375 161.1719,25.8594 Q161.3281,25.7813 161.5313,25.7813 Q161.8594,25.7813 162.1094,26.0469 Q162.375,26.2969 162.375,26.6406 Q162.375,26.9844 162.0313,27.3906 Q161.5313,27.9688 160.7344,28.2969 Q159.6563,28.75 158.3594,28.75 Q156.8438,28.75 155.6406,28.125 Q154.6563,27.625 153.9688,26.5625 Q153.2813,25.4844 153.2813,24.2031 L153.2813,23.0469 Q153.2813,21.7188 153.8906,20.5781 Q154.5156,19.4219 155.6094,18.8125 Q156.7031,18.1875 157.9375,18.1875 Q158.6719,18.1875 159.3125,18.3594 Q159.9688,18.5156 160.5156,18.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="54" x="178.25" y="28.7285">Principal</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="370" y1="39" y2="39"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="50.3047"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="76" x="27" y="57.5332">valor: String</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="370" y1="64.6094" y2="64.6094"/>
+            <ellipse cx="18" cy="78.9141" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="64" x="27" y="83.1426">Principal()</text>
+            <ellipse cx="18" cy="96.5234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="108" x="27" y="100.752">getValor(): String</text>
+            <ellipse cx="18" cy="114.1328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="172" x="27" y="118.3613">setValor(valor: String): void</text>
+            <ellipse cx="18" cy="131.7422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="142" x="27" y="135.9707">initComponents(): void</text>
+            <ellipse cx="18" cy="149.3516" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="298" x="27" y="153.5801">btnCerrarMouseClicked(evt: MouseEvent): void</text>
+            <ellipse cx="18" cy="166.9609" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="305" x="27" y="171.1895">btnMostrarMouseClicked(evt: MouseEvent): void</text>
+            <ellipse cx="18" cy="184.5703" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="338" x="27" y="188.7988">txtFldMensajeActionPerformed(evt: ActionEvent): void</text>
+            <ellipse cx="18" cy="202.1797" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="155" x="27" y="206.4082">main(args: String[]): void</text>
+        </g>
+        <!--class Secundaria-->
+        <g id="elem_Secundaria">
+            <rect codeLine="21" fill="#F1F1F1" height="206.4844" id="Secundaria" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="354" x="406" y="7"/>
+            <ellipse cx="542.75" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M545.5156,18.875 Q545.6719,18.6563 545.8594,18.5469 Q546.0469,18.4375 546.2656,18.4375 Q546.6406,18.4375 546.875,18.7031 Q547.1094,18.9531 547.1094,19.5625 L547.1094,21.0156 Q547.1094,21.625 546.875,21.8906 Q546.6406,22.1563 546.2656,22.1563 Q545.9219,22.1563 545.7188,21.9531 Q545.5156,21.7656 545.4063,21.25 Q545.3594,20.8906 545.1719,20.7031 Q544.8438,20.3281 544.2344,20.1094 Q543.625,19.8906 543,19.8906 Q542.2344,19.8906 541.5938,20.2188 Q540.9688,20.5469 540.4688,21.2969 Q539.9844,22.0469 539.9844,23.0781 L539.9844,24.1719 Q539.9844,25.4063 540.875,26.2344 Q541.7656,27.0469 543.3594,27.0469 Q544.2969,27.0469 544.9531,26.7969 Q545.3438,26.6406 545.7656,26.2031 Q546.0313,25.9375 546.1719,25.8594 Q546.3281,25.7813 546.5313,25.7813 Q546.8594,25.7813 547.1094,26.0469 Q547.375,26.2969 547.375,26.6406 Q547.375,26.9844 547.0313,27.3906 Q546.5313,27.9688 545.7344,28.2969 Q544.6563,28.75 543.3594,28.75 Q541.8438,28.75 540.6406,28.125 Q539.6563,27.625 538.9688,26.5625 Q538.2813,25.4844 538.2813,24.2031 L538.2813,23.0469 Q538.2813,21.7188 538.8906,20.5781 Q539.5156,19.4219 540.6094,18.8125 Q541.7031,18.1875 542.9375,18.1875 Q543.6719,18.1875 544.3125,18.3594 Q544.9688,18.5156 545.5156,18.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="72" x="563.25" y="28.7285">Secundaria</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="407" x2="759" y1="39" y2="39"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="414" y="50.3047"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="426" y="57.5332">mensaje: String</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="414" y="67.9141"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="140" x="426" y="75.1426">pantallaPpal: Principal</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="407" x2="759" y1="82.2188" y2="82.2188"/>
+            <ellipse cx="417" cy="96.5234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="82" x="426" y="100.752">Secundaria()</text>
+            <ellipse cx="417" cy="114.1328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="328" x="426" y="118.3613">Secundaria(mensaje: String, pantallaPpal: Principal)</text>
+            <ellipse cx="417" cy="131.7422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="214" x="426" y="135.9707">setMensaje(mensaje: String): void</text>
+            <ellipse cx="417" cy="149.3516" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="142" x="426" y="153.5801">initComponents(): void</text>
+            <ellipse cx="417" cy="166.9609" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="298" x="426" y="171.1895">btnCerrarMouseClicked(evt: MouseEvent): void</text>
+            <ellipse cx="417" cy="184.5703" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="312" x="426" y="188.7988">btnCerrarActionPerformed(evt: ActionEvent): void</text>
+            <ellipse cx="417" cy="202.1797" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="155" x="426" y="206.4082">main(args: String[]): void</text>
+        </g>
+        <!--link Principal to SuppressWarnings-->
+        <g id="link_Principal_SuppressWarnings">
+            <path codeLine="5" d="M965.35,134.26 C954.2,155.6 936.27,187.65 917,213 C889.53,249.14 856.5482,281.9081 831.9682,304.8281 " fill="none" id="Principal-to-SuppressWarnings" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="#181818" points="827.58,308.92,836.8903,305.7077,831.2369,305.5101,831.4344,299.8567,827.58,308.92" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--link Principal to JFrame-->
+        <g id="link_Principal_JFrame">
+            <path codeLine="6" d="M981.73,134.23 C990.37,176.68 1005.0268,248.6523 1013.6768,291.1123 " fill="none" id="Principal-to-JFrame" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="1017.27,308.75,1019.5561,289.9146,1007.7976,292.31,1017.27,308.75" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--link Secundaria to SuppressWarnings-->
+        <g id="link_Secundaria_SuppressWarnings">
+            <path codeLine="7" d="M842.27,134.23 C833.63,176.68 816.5777,260.4108 807.9277,302.8708 " fill="none" id="Secundaria-to-SuppressWarnings" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/>
+            <polygon fill="#181818" points="806.73,308.75,812.4461,300.7296,807.7281,303.8506,804.6071,299.1327,806.73,308.75" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--link Secundaria to JFrame-->
+        <g id="link_Secundaria_JFrame">
+            <path codeLine="8" d="M861.8,134.25 C875.46,155.3 896.66,186.92 917,213 C943.94,247.55 965.6487,271.9213 987.5287,295.4013 " fill="none" id="Secundaria-to-JFrame" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="999.8,308.57,991.9182,291.3109,983.1391,299.4918,999.8,308.57" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--SRC=[jLB1IiD04BtdA_QOe5cm1myv5AJOWn081FGWKiPa6hPkPiFk9XRKVpTj4fFKH2de7j-yzsRcpGAHic258hQ32hW4odXS5eL6Onv0aw3CE8a4OnXMiDXSNMzAiLdmI0jAH05ogXXZKb8AMa1RFNZlkNcjtVZTMaEEphGRutpvqoGpAjz_N_xQf9_gh2u3sLoRPib-d3U7rSzd5KYb0nRRkf8TiOkUvNejag6zFn1TxuHgkiB8fsPLIgGjHv2mAvKNYf2iSSV5Pqihr1fqg4g3AocI5qnTh6p0ZiXjLOk-IK9bx5aQkxThcOP81dPuann-KuHwgtJUAHjmGfg381TqPhhj7fywmeVJvZeuG1TitlGQvUMp0iY2b13LwGPzq6shtkOh-G5qudWvP-RrjsaNFfN- -tqQoT_b_0a0]-->
+    </g>
+</svg>
